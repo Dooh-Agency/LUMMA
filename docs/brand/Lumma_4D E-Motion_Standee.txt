@@ -1,0 +1,19 @@
+Lumma — 4D E-Motion Standee
+Fuente: Lumma_4D E-Motion_Standee.pdf (el binario no se sube al repo — pieza mayormente gráfica)
+
+---
+
+Nota: este documento es una pieza de diseño de un standee físico (exhibidor de piso), no un documento de texto. La extracción automática solo devolvió elementos gráficos y números de cotas/medidas sueltos (dimensiones del standee en mm), sin valor como texto corrido.
+
+Contenido identificable:
+- Título: "4D E-Motion STANDEE" — marcado como CONFIDENTIAL.
+- Especificaciones destacadas del standee (íconos/bullets):
+  • S4 tilted module (módulo inclinado S4)
+  • Self-supported graphics (gráfica autoportante)
+  • Lights (luces)
+  • Wind (viento/efecto de aire)
+- Incluye vistas técnicas con cotas de medidas (en mm), sin texto adicional relevante.
+- Pie de página: 4DEMOTION.COM | SALES@4DEMOTION.COM
+
+Para ver el diseño real (planos, proporciones, materiales) hay que abrir el PDF original en Drive:
+https://drive.google.com/file/d/1Nd-CGqBpXcC8S9UxY6f02wboCT0aDF26/view

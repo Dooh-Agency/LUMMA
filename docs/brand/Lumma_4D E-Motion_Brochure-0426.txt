@@ -1,0 +1,11 @@
+Lumma — 4D E-Motion Brochure Digital (ENG-ESP, 0426)
+Fuente: Lumma_4D E-Motion_Brochure-0426.pdf (el binario no se sube al repo — pieza mayormente gráfica)
+
+---
+
+Nota: pieza de diseño con muy poco texto real — collage de imágenes/renders con nombres de salas de cine y logos de partners (ej. "TPN Trusted Partner Network"). La extracción automática no devolvió contenido de texto corrido útil, solo fragmentos de logos y nombres propios mezclados por el OCR (ej. nombres de salas/cines, referencia a "Main Cine Center", mención de contenido tipo naturaleza/documental — "Oceanos", "Deshielo de los polos" — probablemente ejemplos de películas/contenido proyectado).
+
+Título del archivo: "4D E-Motion Brochure Digital ENG-ESP 0426" — versión digital bilingüe (inglés/español) del brochure de 4D E-Motion.
+
+Para ver el diseño real (fotos, layout, mensajes de marca) hay que abrir el PDF original en Drive:
+https://drive.google.com/file/d/138Gtq3kJlsMQ--L5EKQBJWajbDABwdA1/view

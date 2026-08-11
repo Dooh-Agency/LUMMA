@@ -1,0 +1,16 @@
+Lumma — 4D E-Motion / Magnify 8 Overview (LQ, 0626)
+Fuente: Lumma_4DE-MotionMangify8-Overview_LQ-0626.pdf (el binario no se sube al repo — pieza mayormente gráfica)
+
+---
+
+Nota: pieza de diseño tipo "overview" con collage de logos de estudios/distribuidoras de cine y títulos de películas junto al logo Magnify 8. La extracción automática solo devolvió fragmentos de logos mezclados por el OCR, sin texto corrido real.
+
+Contenido identificable (logos/marcas mencionadas):
+- Marca destacada: Magnify 8 / M8
+- Sello: "TPN Trusted Partner Network"
+- Estudios/franquicias reconocibles entre el ruido OCR: Amazon Studios, Lucasfilm, Marvel, Harry Potter, Jaws, Dragon (probablemente "How to Train Your Dragon"), Toy (probablemente "Toy Story"), y referencias a formatos de sala tipo IMAX/RPX.
+
+Propósito de la pieza: mostrar el catálogo/prestigio de contenido y estudios que ya trabajan con la tecnología Magnify 8, como prueba social para exhibidores.
+
+Para ver el diseño real (logos, layout) hay que abrir el PDF original en Drive:
+https://drive.google.com/file/d/1nPeGfvwxlAhaTxAHx0VeVYjNkdIVKyWS/view
