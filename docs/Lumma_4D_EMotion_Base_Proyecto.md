@@ -26,15 +26,15 @@
 
 | Producto | Descripción | Estado | Opciones de naming ya evaluadas por el cliente |
 |---|---|---|---|
-| **Core / Estándar** (4 seats) | Butaca ergonómica estándar | Existente, ya tiene nombre — modelo instalado hoy en todas las salas | — |
+| **Core / Estándar** (4 seats) | Butaca ergonómica estándar | En mercado. ⚠️ **"Core" podría ser solo etiqueta de trabajo, no nomenclatura oficial confirmada** — ver nota abajo | — |
 | **Luxury** (4 seats) | Mayor confort, mullido, detalle bordado dorado/negro | Nuevo, sin nombre definido. **3D sin confirmar disponibilidad** | Comfy, Luxury, Lux, Luxe, Deluxe |
-| **Recliner individual** (S1) | Sistema "on riser" para exhibidor — solución B2B, no de cara al público final | Nuevo, sin nombre definido, **ya tiene 3D** (Lumma ya generó imágenes con IA a partir de él) | Recline, Prime, VIP, One, S1 |
-| **Magnify / M8** | Efecto de vibración | Lanzado en 2024, ya tiene nombre y presencia en mercado. Fuera del alcance de naming actual | — |
+| **Recliner individual** (S1) | Sistema "on riser" para exhibidor — solución B2B, no de cara al público final | Nuevo, sin nombre de marca definido, **ya tiene 3D** y nombre técnico resuelto (S1/ONE) | Recline, Prime, VIP, One, S1 |
+| **Magnify 8 / M8** | Producto separado — vibración potenciada (8 puntos), distinto de la vibración propia de 4D E-Motion (4 puntos) | Lanzado en 2024, nombre y presencia en mercado ya asentados. Fuera del alcance de naming actual | — |
 | **Producto de hogar** (confidencial) | — | Existe, pero el cliente pidió explícitamente **no priorizarlo** — fuera del alcance | — |
 
-**Variante transversal:** "4D E-Motion +" — incluye el efecto de M8, aplicable a cualquier modelo. Fuera del alcance de naming actual.
+**Variante transversal — "4D E-Motion +":** butaca 4D E-Motion completa sumándole la vibración potenciada de Magnify 8/M8. Antes se llamaba internamente **"premium"** (solo una sala salió al mercado con ese nombre viejo); la nomenclatura oficial "4D E-Motion +" está en transición. Confirmado que existe para **Core** ("4D E-Motion Core +"); **no confirmado todavía si va a existir para Luxury o Recliner** — Lumma lo está chequeando internamente. Posición del "+" tentativamente al final del nombre, sin confirmar. Es un signo (símbolo), no la palabra "Plus". Fuera del alcance de naming actual — ver detalle completo en `Mapa_Estructura_Productos_Lumma.md`.
 
-⚠️ **Nota sobre "Prime":** el cliente lo evaluó únicamente como opción para **Recliner**, no para Luxury. (Confirmado por el usuario — un resumen posterior mezclaba ambas listas; se prioriza lo indicado en los mails originales.)
+⚠️ **Nota sobre "Prime" (corregida):** el mail original de Antonela (22/jul, ver fuente primaria abajo) lo lista como candidato para **ambos modelos**, en forma condicional: *"PRIME (SI NO SE USA EN EL S1)"* aparece en la columna de ejemplos de Luxury, y también en la de Recliner. Es decir, Prime competía por los dos lugares, no era exclusivo de Recliner — una nota anterior en este documento decía lo contrario y quedaba desactualizada; se corrige con la fuente primaria. Esto sube el riesgo de colisión con "AMC Prime" (ver `Research_Competidores_Naming.md`, sección 2) a ambas líneas, no solo a Recliner.
 
 ---
 
@@ -45,12 +45,14 @@
 | 17/jul | Mail inicial de Antonela — invitación a retomar el vínculo, sin detalle de alcance |
 | 18/jul | Respuesta DOOH — confirma y coordina reunión |
 | 20/jul | Reunión de reactivación — contexto, líneas de producto, prioridades (detalle abajo) |
-| 21/jul | Punteo detallado de Antonela — brief informal completo (detalle abajo) |
+| 22/jul | Punteo detallado de Antonela — brief informal completo + arquitectura de productos y candidatos de naming (fecha corregida, mail "DOOH & LUMMA", detalle abajo) |
 | 24/jul | Respuesta DOOH con estructura Fase 1/Fase 2 + 5 preguntas de precisión |
 | 24/jul | Respuesta de Antonela a las 5 preguntas (mismo día) |
 | — | Revisión del brochure histórico 2016 (20 páginas) |
 | — | Antonela responde a la propuesta completa de Fase 1 — pide avanzar por etapas, prioriza naming |
 | — | Reunión de definición de criterios de naming (detalle en sección 6) |
+| 12/ago | DOOH envía consulta sobre Magnify 8/"+" y pide listado de combinaciones (ver [Mail_Preguntas_Arquitectura_Productos.md](Mail_Preguntas_Arquitectura_Productos.md)) |
+| 12/ago | Florencia Yacante (Head of Design, Lumma) responde punto por punto — corrige la lectura sobre Magnify 8 y confirma varias combinaciones (detalle en [Mapa_Estructura_Productos_Lumma.md](Mapa_Estructura_Productos_Lumma.md)) |
 
 ### Reunión de reactivación (20/jul)
 - Cliente histórico con confianza previa fuerte — remarcado por Antonela como activo a favor.
@@ -61,7 +63,7 @@
 - Material disponible: fotos, renders, archivos 3D/.OBJ.
 - Modelo de contratación dejado abierto (proyecto / horas / bloque flexible).
 
-### Punteo detallado de Antonela (21/jul)
+### Punteo detallado de Antonela (22/jul) — mail "DOOH & LUMMA"
 Lista "de máxima" con pedido explícito de que DOOH proponga un recorte priorizado:
 1. Naming y lanzamiento de líneas de producto — **prioridad #1 explícita**
 2. Arquitectura de marca bajo el paraguas 4D E-Motion
@@ -71,6 +73,20 @@ Lista "de máxima" con pedido explícito de que DOOH proponga un recorte prioriz
 6. Gestión integral de Instagram (community management + calendarización) — opcional, a cotizar aparte
 
 Modalidad de trabajo: coordinación con Florencia Yacante (Lumma). Disponibilidad DOOH: Florencia, L–V 9–18h Argentina.
+
+**Material ofrecido por Lumma:** fotos y renders de producto, archivos 3D/.OBJ de los modelados — usados por Lumma para generar imágenes con IA manteniendo rigurosidad técnica. (Acceso funcional al Dropbox con este material sigue pendiente — ver sección 8, punto 6.)
+
+**Detalle de arquitectura de productos incluido en este mismo mail (antes no estaba volcado en este documento):**
+
+- Antonela aclara que **hoy en el mercado las salas son "4D E-Motion" y "Magnify 8"** — Luxury y Recliner todavía no están lanzados, es arquitectura a definir, no a renombrar algo existente.
+- Aclara también que **no hace falta naming para todos los modelos de una** — los lanzamientos tienen su propia curva y en algunos casos no aplica promocionar al público todavía.
+- Línea de producto "4D E-Motion" con 3 modelos/variantes (candidatos de naming ya evaluados por ella, entre paréntesis el estado):
+  1. **Módulo 4D E-Motion Core** (4 seats) — butaca ergonómica, look premium, ya instalada en todas las salas.
+  2. **Módulo 4D E-Motion/Luxury** (4 seats) — candidatos: Comfy, Luxury, Lux, Luxe, Deluxe, **y Prime "si no se usa en el S1"** (condicional — ver nota corregida en sección 2 de este documento).
+  3. **Recliner (Individual)**, montado en sistema "on riser" — candidatos: Recline, Prime, VIP, One. **"ONE" y "S1" son, en palabras de Antonela, "el nombre técnico"** del modelo — ya funciona como designación interna, con "Designed for Risers" como posible tagline para el exhibidor. Solución para el exhibidor, no de cara al cliente final.
+- **"4D E-Motion +"** — variante transversal por cantidad de efectos/features, "incluye efecto de M8 y puede estar en cualquier modelo" (cita textual). Confirma que no es un paquete con contenido adicional a M8, sino la notación de "modelo + M8".
+- **Riesgo que la propia Antonela ya identificó, antes de nuestro research:** *"Algunas contras que encuentro es que alguno de estos nombres (la mayoría), al ser tan reconocidos por el público... son nombres de compañías de butacas conocidas en algunos mercados o formatos de cines."* — coincide con el hallazgo de colisión con "AMC Prime" y "Regal Luxe" documentado en `Research_Competidores_Naming.md`.
+- Aclaró que su lista es **"muy de máxima"** — pide que DOOH proponga una propuesta acotada, no que se tome como lista cerrada.
 
 ### Respuesta de Antonela a las 5 preguntas de precisión (24/jul)
 
@@ -245,3 +261,5 @@ Antonela respondió a la propuesta de Fase 1 (alcance + presupuesto completo) in
 4. Definir moneda/forma de facturación (pendiente pregunta de Antonela sobre factura Argentina en pesos).
 5. Coordinar con Florencia Yacante (Lumma) el flujo de trabajo en paralelo para branding/logo.
 6. Conseguir acceso funcional al Dropbox con material adicional (fotos, renders, 3D) — pendiente desde la reunión del 20/jul.
+7. ✅ **Resuelto:** Core, Luxury y Recliner son líneas mutuamente excluyentes — confirmado por el propio mail de Antonela (22/jul), que las lista como 3 modelos separados sin variante cruzada. Ver [Mapa_Estructura_Productos_Lumma.md](Mapa_Estructura_Productos_Lumma.md).
+8. Esperar confirmación de Florencia Yacante (en curso con Antonela) sobre si Luxury+ y Recliner+ (con Magnify 8) van a existir como combinaciones reales, y sobre la posición exacta del "+" en el nombre.

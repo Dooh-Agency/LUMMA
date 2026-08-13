@@ -53,32 +53,15 @@ Punto de partida ya armado: shortlist preliminar interna en la sección 7 del do
 Pendiente: confirmar mail de Antonela Salvador y de Florencia Yacante (no están registrados en la documentación disponible) antes de enviar.
 
 ```
-Para: antonela@lumma... (confirmar mail de Antonela)
-CC: florencia.yacante@lumma... (confirmar mail de Florencia Yacante)
-De: hello@dooh.com.ar
-Asunto: Lumma / 4D E-Motion — Arrancamos con el Naming
-
 Hola Antonela,
 
-Como charlamos, arrancamos por etapas y el primer paso es el Naming de
-Luxury y Recliner. Te escribimos para dejar formalizado el inicio de
-este punto y coordinar los próximos pasos.
+Como charlamos, arrancamos por etapas y el primer paso es el Naming de Luxury y Recliner. Te escribimos para dejar formalizado el inicio de este punto y coordinar los próximos pasos.
 
 QUÉ VAMOS A ENTREGAR
 
-- Nombre para el modelo Luxury y para el modelo Recliner (S1), más la
-  arquitectura de cómo conviven junto al Core existente bajo el
-  paraguas 4D E-Motion.
-- El proceso incluye: research de competidores y del sector cine/
-  experiencia premium, definición de territorio de naming, 2-3 rondas
-  de generación de nombres, chequeo de disponibilidad preliminar,
-  arquitectura de marca, y una presentación final con 3 a 5 opciones
-  por modelo y el racional detrás de cada una. Incluye una ronda de
-  ajuste sobre esa presentación.
-- Por ahora trabajamos solo este punto: el branding de cada nombre
-  (logo, paleta) queda del lado de Florencia en paralelo, y piezas
-  B2B, brochure y el resto de Fase 2 los conversamos más adelante,
-  como ya habíamos acordado.
+- Nombre para el modelo Luxury y para el modelo Recliner (S1), más la arquitectura de cómo conviven junto al Core existente bajo el paraguas 4D E-Motion.
+- El proceso incluye: research de competidores y del sector cine/experiencia premium, definición de territorio de naming, 2-3 rondas de generación de nombres, chequeo de disponibilidad preliminar, arquitectura de marca, y una presentación final con 3 a 5 opciones por modelo y el racional detrás de cada una. Incluye una ronda de ajuste sobre esa presentación.
+- Por ahora trabajamos solo este punto: el branding de cada nombre (logo, paleta) queda del lado de Florencia en paralelo, y piezas B2B, brochure y el resto de Fase 2 los conversamos más adelante, como ya habíamos acordado.
 
 CRONOGRAMA
 
@@ -92,14 +75,9 @@ CRONOGRAMA
 
 INICIO Y PAGO
 
-El valor total para esta etapa (naming de ambos modelos) es de
-USD 1.995, equivalente a 25-35 hs de trabajo. Para arrancar necesitamos
-el 50% como anticipo: USD 997,50.
+El valor total para esta etapa (naming de ambos modelos) es de USD 1.995, equivalente a 25-35 hs de trabajo. Para arrancar necesitamos el 50% como anticipo: USD 997,50.
 
-Una cosa que quedó pendiente de tu mail anterior y que necesitamos
-para poder facturar: ¿la facturación va con factura de Argentina en
-pesos, o preferís que trabajemos en USD? Con eso confirmado te
-pasamos los datos para el pago y arrancamos apenas lo recibamos.
+Una cosa que quedó pendiente de tu mail anterior y que necesitamos para poder facturar: ¿la facturación va con factura de Argentina en pesos, o preferís que trabajemos en USD? Con eso confirmado te pasamos los datos para el pago y arrancamos apenas lo recibamos.
 
 Cualquier cosa nos escribís. Nos vemos el martes.
 
@@ -108,3 +86,5 @@ Equipo DOOH
 
 Change the game. By design.
 ```
+
+(Encabezados Para / CC / De / Asunto se completan directo en Gmail, no van en el cuerpo del mail — Para: antonela@lumma..., CC: florencia.yacante@lumma... (confirmar direcciones), De: hello@dooh.com.ar, Asunto: Lumma / 4D E-Motion — Arrancamos con el Naming)
