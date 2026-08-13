@@ -1,7 +1,7 @@
 # Lumma / 4D E-Motion — Naming (Punto 1) — Kickoff
 ## Fecha: 11/ago/2026
 
-Documenta el acuerdo de alcance, cronograma y el mail de inicio formal para la etapa de Naming (punto 1 del presupuesto de Fase 1). Complementa a [Lumma_4D_EMotion_Base_Proyecto.md](Lumma_4D_EMotion_Base_Proyecto.md).
+Documenta el acuerdo de alcance, cronograma y el mail de inicio formal para la etapa de Naming (punto 1 del presupuesto de Fase 1). Complementa a [Lumma_4D_EMotion_Base_Proyecto.md](Lumma_4D_EMotion_Base_Proyecto.md) y a [Naming_Territorio.md](Naming_Territorio.md) (borrador del territorio de naming, primer entregable interno del cronograma).
 
 ---
 
@@ -14,7 +14,7 @@ Incluye:
 2. Definición de territorio de naming — criterios de exclusión, tono de marca
 3. Generación de nombres — 2–3 rondas, 8–12 opciones por modelo antes de curar shortlist
 4. Chequeo de disponibilidad preliminar (dominio/uso básico — no reemplaza estudio marcario formal)
-5. Arquitectura de marca — nomenclatura y jerarquía Core + Luxury + Recliner bajo 4D E-Motion
+5. Arquitectura de marca — nomenclatura y jerarquía Core + Luxury + Recliner bajo 4D E-Motion, incluyendo cómo conviven los nombres nuevos con el sufijo "+" (M8) ya confirmado por Lumma — ver matriz de combinaciones en sección 2.1 del documento base
 6. Presentación — deck con 3–5 opciones finales por modelo + racional estratégico
 7. 1 ronda de ajuste/feedback incluida
 

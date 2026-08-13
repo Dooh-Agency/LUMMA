@@ -1,5 +1,5 @@
 # Lumma / 4D E-Motion — Documento Base del Proyecto
-## Carpeta de proyecto DOOH · Knowledge Box · Última actualización: 11/ago/2026
+## Carpeta de proyecto DOOH · Knowledge Box · Última actualización: 12/ago/2026
 
 *Documento base inicial del proyecto. Reúne el contexto completo, el alcance propuesto, la comunicación con el cliente y las definiciones vigentes hasta la fecha. Sirve como fuente única de referencia — se actualiza a medida que avanza el proyecto.*
 
@@ -28,13 +28,39 @@
 |---|---|---|---|
 | **Core / Estándar** (4 seats) | Butaca ergonómica estándar | En mercado. ⚠️ **"Core" podría ser solo etiqueta de trabajo, no nomenclatura oficial confirmada** — ver nota abajo | — |
 | **Luxury** (4 seats) | Mayor confort, mullido, detalle bordado dorado/negro | Nuevo, sin nombre definido. **3D sin confirmar disponibilidad** | Comfy, Luxury, Lux, Luxe, Deluxe |
-| **Recliner individual** (S1) | Sistema "on riser" para exhibidor — solución B2B, no de cara al público final | Nuevo, sin nombre de marca definido, **ya tiene 3D** y nombre técnico resuelto (S1/ONE) | Recline, Prime, VIP, One, S1 |
-| **Magnify 8 / M8** | Producto separado — vibración potenciada (8 puntos), distinto de la vibración propia de 4D E-Motion (4 puntos) | Lanzado en 2024, nombre y presencia en mercado ya asentados. Fuera del alcance de naming actual | — |
+| **Recliner individual** (S1) | Sistema "on riser" para exhibidor — solución B2B, no de cara al público final | Nuevo, sin nombre de marca definido, **ya tiene 3D** (Lumma ya generó imágenes con IA a partir de él) y nombre técnico resuelto (S1/ONE) | Recline, Prime, VIP, One, S1 |
+| **Magnify 8 / M8** | **Producto separado**, no solo un efecto — vibraciones potenciadas en 8 puntos (vs. 4D E-Motion, que combina vibración + movimiento + otros efectos en 4 puntos) | Lanzado en 2024, nombre y presencia en mercado ya asentados. Fuera del alcance de naming actual | — |
 | **Producto de hogar** (confidencial) | — | Existe, pero el cliente pidió explícitamente **no priorizarlo** — fuera del alcance | — |
 
-**Variante transversal — "4D E-Motion +":** butaca 4D E-Motion completa sumándole la vibración potenciada de Magnify 8/M8. Antes se llamaba internamente **"premium"** (solo una sala salió al mercado con ese nombre viejo); la nomenclatura oficial "4D E-Motion +" está en transición. Confirmado que existe para **Core** ("4D E-Motion Core +"); **no confirmado todavía si va a existir para Luxury o Recliner** — Lumma lo está chequeando internamente. Posición del "+" tentativamente al final del nombre, sin confirmar. Es un signo (símbolo), no la palabra "Plus". Fuera del alcance de naming actual — ver detalle completo en `Mapa_Estructura_Productos_Lumma.md`.
+**Variante transversal — "4D E-Motion +":** sufijo que indica que un modelo incluye el efecto potenciado de Magnify 8/M8, aplicable en teoría a cualquier modelo. Fuera del alcance de naming actual, pero condiciona la arquitectura de marca. Detalle completo de qué está confirmado y qué no en la sección 2.1.
 
 ⚠️ **Nota sobre "Prime" (corregida):** el mail original de Antonela (22/jul, ver fuente primaria abajo) lo lista como candidato para **ambos modelos**, en forma condicional: *"PRIME (SI NO SE USA EN EL S1)"* aparece en la columna de ejemplos de Luxury, y también en la de Recliner. Es decir, Prime competía por los dos lugares, no era exclusivo de Recliner — una nota anterior en este documento decía lo contrario y quedaba desactualizada; se corrige con la fuente primaria. Esto sube el riesgo de colisión con "AMC Prime" (ver `Research_Competidores_Naming.md`, sección 2) a ambas líneas, no solo a Recliner.
+
+### 2.1 Nomenclatura M8 / "+" — confirmado por Lumma (12/ago)
+
+Florencia Yacante (Lumma) respondió por mail las consultas de DOOH sobre cómo se nombran hoy las combinaciones de producto. Puntos confirmados:
+
+- **Magnify 8 / M8 no es solo el nombre de un efecto** — es un producto en sí mismo (vibraciones en 8 puntos), separado del sistema 4D E-Motion (que combina vibración + movimiento + otros efectos en 4 puntos). Existe además una versión de 4D que incorpora las vibraciones potenciadas de M8 sobre la butaca con el resto de los efectos.
+- **El "+" sí funciona como sufijo corto** para indicar "este modelo incluye el efecto M8", evitando repetir "Magnify 8" cada vez — confirmado por Lumma.
+- Nomenclatura anterior usaba "premium" para lo que hoy pasa a llamarse "4D E-Motion +"; solo una sala salió al mercado con la versión vieja, se está migrando.
+
+**Matriz de combinaciones — estado de confirmación:**
+
+| Nombre | Confirmado por Lumma |
+|---|---|
+| 4D E-Motion Core (versión base, sin sufijo) | Sin nombre definido todavía — la nomenclatura para el modelo base recién está surgiendo. Lumma también ve la necesidad de nombrarlo (Anto lo venía llamando "premium") |
+| 4D E-Motion Core + (incluye M8) | ✅ Sí |
+| Magnify 8 (como sala/línea propia) | ✅ Sí |
+| 4D E-Motion Luxury (nombre de marca a definir — en trabajo de naming DOOH) | ✅ Sí, existe como combinación |
+| 4D E-Motion Luxury + (incluye M8) | ⏳ No confirmado — Florencia lo consulta con Antonela |
+| 4D E-Motion Recliner (nombre de marca a definir — en trabajo de naming DOOH) | ✅ Sí, existe como combinación |
+| 4D E-Motion Recliner + (incluye M8) | ⏳ No confirmado — Florencia lo consulta con Antonela |
+
+**Posición del "+":** tentativamente al final del nombre completo (ej. "4D E-Motion Recliner +", no "4D E-Motion + Recliner") — a confirmar con Antonela.
+
+**Formato del "+":** es un signo gráfico (no la palabra "PLUS"). Lumma menciona haber agregado un modelo de logo a la carpeta compartida — **ese archivo todavía no llegó/no está incorporado** a este proyecto, pendiente de recibir.
+
+**Implicancia para el naming de Luxury/Recliner (punto 1):** la arquitectura de marca a entregar debe contemplar cómo conviven los nombres nuevos con el sufijo "+" existente (ej. "4D E-Motion [Nombre Luxury] +"), no solo el nombre base.
 
 ---
 
@@ -52,7 +78,7 @@
 | — | Antonela responde a la propuesta completa de Fase 1 — pide avanzar por etapas, prioriza naming |
 | — | Reunión de definición de criterios de naming (detalle en sección 6) |
 | 12/ago | DOOH envía consulta sobre Magnify 8/"+" y pide listado de combinaciones (ver [Mail_Preguntas_Arquitectura_Productos.md](Mail_Preguntas_Arquitectura_Productos.md)) |
-| 12/ago | Florencia Yacante (Head of Design, Lumma) responde punto por punto — corrige la lectura sobre Magnify 8 y confirma varias combinaciones (detalle en [Mapa_Estructura_Productos_Lumma.md](Mapa_Estructura_Productos_Lumma.md)) |
+| 12/ago | Florencia Yacante (Head of Design, Lumma) responde punto por punto — corrige la lectura sobre Magnify 8 y confirma varias combinaciones (detalle en sección 2.1 y en [Mapa_Estructura_Productos_Lumma.md](Mapa_Estructura_Productos_Lumma.md)) |
 
 ### Reunión de reactivación (20/jul)
 - Cliente histórico con confianza previa fuerte — remarcado por Antonela como activo a favor.
@@ -262,4 +288,5 @@ Antonela respondió a la propuesta de Fase 1 (alcance + presupuesto completo) in
 5. Coordinar con Florencia Yacante (Lumma) el flujo de trabajo en paralelo para branding/logo.
 6. Conseguir acceso funcional al Dropbox con material adicional (fotos, renders, 3D) — pendiente desde la reunión del 20/jul.
 7. ✅ **Resuelto:** Core, Luxury y Recliner son líneas mutuamente excluyentes — confirmado por el propio mail de Antonela (22/jul), que las lista como 3 modelos separados sin variante cruzada. Ver [Mapa_Estructura_Productos_Lumma.md](Mapa_Estructura_Productos_Lumma.md).
-8. Esperar confirmación de Florencia Yacante (en curso con Antonela) sobre si Luxury+ y Recliner+ (con Magnify 8) van a existir como combinaciones reales, y sobre la posición exacta del "+" en el nombre.
+8. Confirmar con Florencia Yacante (pendiente de que ella hable con Antonela): si existen las combinaciones Luxury + y Recliner + (incluye M8), y la posición exacta del "+" en el nombre (sección 2.1).
+9. Conseguir el archivo de logo del "+" que Lumma mencionó haber agregado a la carpeta compartida — todavía no recibido.
