@@ -59,11 +59,11 @@ Traducción de los criterios ya acordados con el cliente en filtros de trabajo:
 
 Se relevaron los principales fabricantes y exhibidores del rubro (Inorca —referencia directa del cliente—, D-BOX, Skeie, Leadcom, Irwin, más las líneas premium de AMC, Regal y Cinemark).
 
-⚠️ **Hallazgo con impacto directo en la shortlist:** "Prime" está en uso activo y registrado por **AMC Theatres ("AMC Prime")**, y "Lux"/"Luxe" comparte territorio con **"Regal Luxe"** de Regal Cinemas — ambos, dos de los mayores exhibidores de EE.UU., mercado donde Lumma tiene oficina y busca registro internacional. Es un riesgo real de colisión, no solo teórico.
+⚠️ **Hallazgo con impacto directo en la shortlist:** "Prime" tiene antecedente directo en el rubro — fue el nombre del formato premium de **AMC Theatres** hasta 2017 (renombrado a "Dolby Cinema at AMC"; no está en uso activo hoy, pero comparte territorio). "Luxury" es el término más repetido entre competidores: aparece en D-BOX ("Luxury Recliner/Compact"), Regal ("Regal Luxury Recliner") y Cinemark ("Luxury Loungers®", marca registrada confirmada). *(Nota de corrección: la versión anterior de este hallazgo mencionaba "Regal Luxe" como marca activa — no se pudo verificar esa fuente y se retira esa asociación puntual; ver `Research_Competidores_Naming.md`, sección 2.1.)*
 
 Coincide, además, con algo que **la propia Antonela ya había anticipado** en su mail original: *"alguno de estos nombres... son nombres de compañías de butacas conocidas en algunos mercados o formatos de cines."*
 
-**Espacio libre identificado:** ningún competidor releva su butaca a partir de textura/acabado material específico (oportunidad para Luxury, conectando con el bordado dorado/negro real del producto), ni integra la dualidad "dato técnico + emoción" que ya tiene 4D E-Motion como diferencial de arquitectura verbal.
+**Espacio libre identificado:** ningún competidor releva su butaca a partir de textura/acabado material específico (oportunidad para Luxury, conectando con el bordado dorado/negro real del producto), ni integra la dualidad "dato técnico + emoción" que ya tiene 4D E-Motion como diferencial de arquitectura verbal. Además, la tabla comparativa por nivel de producto (`Research_Competidores_Naming.md`, sección 2) muestra que casi ningún competidor nombra de forma diferenciada un nivel "premium no reclinable" — el territorio exacto de Luxury.
 
 ---
 
@@ -75,7 +75,7 @@ Coincide, además, con algo que **la propia Antonela ya había anticipado** en s
 |---|---|
 | Comfy, Luxury, Lux, Luxe, Deluxe, **Prime*** | Recline, **Prime***, VIP, One |
 
-*\*Prime aparece como candidato condicional para ambos modelos a la vez ("si no se usa en el S1") — es una colisión interna a resolver, más allá del riesgo externo con AMC Prime.*
+*\*Prime aparece como candidato condicional para ambos modelos a la vez ("si no se usa en el S1") — es una colisión interna a resolver, más allá del riesgo externo por antecedente en el rubro (AMC, hasta 2017).*
 
 **Primera ronda interna de DOOH** (previa al research, pendiente de recortar contra los hallazgos de la sección 4):
 
