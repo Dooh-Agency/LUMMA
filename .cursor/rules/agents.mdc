@@ -1,0 +1,6 @@
+---
+description: Apunta a AGENTS.md como fuente única de instrucciones del repositorio
+alwaysApply: true
+---
+
+Este repositorio usa **AGENTS.md** (en la raíz) como fuente única de reglas para agentes de IA, con AGENTS.md anidados dentro de `/docs`. Leer `AGENTS.md` primero, siempre, antes de cualquier otra instrucción de este archivo. Este archivo no duplica esas reglas.
