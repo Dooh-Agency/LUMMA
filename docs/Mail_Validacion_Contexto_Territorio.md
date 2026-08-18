@@ -1,7 +1,7 @@
 # Lumma / 4D E-Motion — Mail: validación de contexto y territorio de naming
 ## Fecha: 17/ago/2026
 
-Mail para enviar a Antonela (y Florencia en copia) con el primer entregable de la etapa de Naming, pidiendo validación del territorio y el ok para arrancar la ronda de generación de nombres. Se envía por mail en vez de agendar una reunión, para no generar expectativa de una instancia formal y mantener el proceso ágil. El documento se adjunta como archivo HTML (`Lumma_Contexto_y_Territorio_de_Naming.html`, ~100 KB, autocontenido, se abre en cualquier navegador sin conexión) — el link online queda como alternativa de lectura. Pendiente de revisión y envío — no se envió todavía.
+Mail para enviar a Antonela (y Florencia en copia) con el primer entregable de la etapa de Naming, pidiendo validación del territorio y el ok para arrancar la ronda de generación de nombres. Se envía por mail en vez de agendar una reunión, para no generar expectativa de una instancia formal y mantener el proceso ágil. El documento se adjunta como archivo HTML (`Lumma_Contexto_y_Territorio_de_Naming.html`, ~100 KB, autocontenido, se abre en cualquier navegador sin conexión) — sin link online, solo adjunto. Pendiente de revisión y envío — no se envió todavía.
 
 ---
 
@@ -14,8 +14,6 @@ Asunto: Lumma / 4D E-Motion — Contexto y territorio de naming, para tu validac
 Hola Antonela,
 
 Te adjuntamos el primer entregable de la etapa de Naming: reúne el contexto del proyecto y el territorio desde el que vamos a generar los nombres de Luxury y Recliner. Es un archivo HTML, se abre haciendo doble clic y se ve directo en el navegador, sin necesidad de conexión.
-
-También lo podés ver online, sin descargar nada, en este link: https://claude.ai/code/artifact/e5d4457c-3355-4edd-b7fd-b3e3a13c967b
 
 No hay nombres definitivos todavía, es el mapa de trabajo: estructura de productos, a quién le tiene que hablar cada nombre, el tono de marca, los criterios que tiene que cumplir un nombre para funcionar, y el research de competidores ya completo.
 
