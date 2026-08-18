@@ -66,3 +66,13 @@ Traducción de los criterios de la reunión de definición (sección 6 del doc b
 ## 4. Próximo paso
 
 Con este territorio cerrado, corresponde avanzar al research de competidores (Inorca, D-BOX, otras marcas de recliner/moción) y al relevamiento semántico del sector cine/experiencia premium — tarea ya prevista en el cronograma para el 12–14/8 (sección 4.1 del doc base) — usando este documento como filtro de qué buscar y qué descartar.
+
+## 5. Chequeo lingüístico básico (paso interno, sumado el 17/8)
+
+Los procesos de naming profesionales incluyen un chequeo de connotación negativa y pronunciación de los candidatos en los idiomas de los mercados donde opera la marca — un nombre con mala sonoridad o doble sentido en otro idioma es un riesgo real, no cosmético. Dado que Lumma opera en 20+ países, se suma como filtro interno de curación (no requiere validación del cliente, es un estándar de calidad propio de DOOH):
+
+- Correr cada candidato final de la shortlist contra español, inglés y portugués (mercados confirmados: Argentina, España, EE.UU.; Brasil a confirmar) antes de presentarlo.
+- Descartar o marcar cualquier candidato con significado negativo, doble sentido incómodo, o dificultad de pronunciación real en alguno de esos idiomas.
+- No requiere estudio formal ni consultores externos — alcanza con una revisión manual del equipo (o hablante nativo si hay dudas puntuales) antes del chequeo de disponibilidad marcaria (20–21/8).
+
+**Fuera de alcance de esta etapa** (por presupuesto y tiempos ya acordados): trademark formal con estudio jurídico, y validación cuantitativa de nombres con consumidores — ambos son parte de procesos de naming de mayor escala/presupuesto, no de este proyecto.

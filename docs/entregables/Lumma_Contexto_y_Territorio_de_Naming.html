@@ -2,6 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Lumma / 4D E-Motion: Contexto y Territorio de Naming</title>
 <style>
 @font-face{
@@ -31,19 +32,48 @@ body{
 
 @page{ size: A4; margin:0; }
 
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%;}
+
 .page{
-  width:210mm;
-  min-height:297mm;
+  width:100%;
+  max-width:210mm;
+  min-height:auto;
   page-break-after:always;
   position:relative;
   padding:20mm 18mm;
+  margin:0 auto;
   background:var(--offwhite);
+  overflow-x:hidden;
 }
 .page:last-child{page-break-after:auto;}
 
 .page.dark{
   background:var(--black);
   color:var(--offwhite);
+}
+
+@media print{
+  .page{ min-height:297mm; }
+}
+
+@media screen and (max-width:700px){
+  .page{ padding:12mm 6mm; }
+  .cover-top{padding:10mm 6mm 0 6mm;}
+  .cover-mid{padding:0 6mm;}
+  .cover-bottom{padding:8mm 6mm 10mm 6mm;flex-direction:column;align-items:flex-start;gap:4mm;}
+  .cover-bottom .cover-meta{text-align:left !important;}
+  .cover-title{font-size:26pt;margin-top:5mm;}
+  .cover-sub{font-size:11pt;max-width:100%;}
+  h1.section{font-size:18pt;}
+  h2.sub{font-size:12.5pt;}
+  .lede{font-size:11pt;max-width:100%;}
+  p{max-width:100%;}
+  .pullquote{max-width:100%;font-size:11.5pt;}
+  .cards{flex-direction:column;}
+  .audience{flex-direction:column;}
+  table{font-size:8.5pt;min-width:480px;}
+  th,td{padding:2mm;white-space:normal;}
+  .footer{flex-direction:column;gap:1mm;align-items:flex-start;}
 }
 
 /* ---------- COVER ---------- */
@@ -151,10 +181,8 @@ p{
 }
 
 .footer{
-  position:absolute;
-  bottom:10mm;
-  left:18mm;
-  right:18mm;
+  position:static;
+  margin-top:12mm;
   display:flex;
   justify-content:space-between;
   font-size:8pt;
@@ -166,11 +194,26 @@ p{
 }
 .page.dark .footer{color:var(--gray-mid);border-top:1px solid #333;}
 
+@media print{
+  .footer{
+    position:absolute;
+    bottom:10mm;
+    left:18mm;
+    right:18mm;
+    margin-top:0;
+  }
+}
+
 /* ---------- TABLES ---------- */
+.table-scroll{
+  overflow-x:auto;
+  -webkit-overflow-scrolling:touch;
+  margin:4mm 0 6mm 0;
+}
 table{
   width:100%;
   border-collapse:collapse;
-  margin:4mm 0 6mm 0;
+  margin:0;
   font-size:9.5pt;
 }
 th{
@@ -316,11 +359,11 @@ ul.checks li:before{
   <p>Lumma es una empresa de innovación tecnológica para la industria del entretenimiento. Desarrolló el sistema <b>4D E-Motion</b>: butacas de cine con efectos sincronizados (movimiento, agua, aire, vibración, aroma, luces, burbujas), instaladas en salas de cine de más de 20 países. Trabaja con exhibidores (así llaman a los cines) de escala real: múltiples salas por país, cada una con su propio set de piezas de comunicación.</p>
 
   <h2 class="sub">Quiénes están en la conversación</h2>
-  <table>
+  <div class="table-scroll"><table>
     <tr><th>Rol</th><th>Persona</th></tr>
     <tr><td>Creative Director, Lumma</td><td>Antonela Salvador, referente del lado del cliente, prioriza y valida el trabajo</td></tr>
     <tr><td>Head of Design, Lumma</td><td>Florencia Yacante, trabaja en paralelo al naming en el branding/logo de cada nombre</td></tr>
-  </table>
+  </table></div>
 
   <h2 class="sub">Deadline funcional</h2>
   <p>Hay un evento clave de Lumma en septiembre de 2026 donde este trabajo debería estar utilizable, lo que ordena las prioridades y los tiempos de esta etapa.</p>
@@ -385,12 +428,12 @@ ul.checks li:before{
   <div class="diagram-caption">Jerarquía de marca: 4D E-Motion como paraguas, tres modelos de butaca, y el sufijo "+" como módulo transversal ligado a Magnify 8.</div>
 
   <h2 class="sub">Los tres modelos: ficha técnica</h2>
-  <table>
+  <div class="table-scroll"><table>
     <tr><th>Modelo</th><th>Formato</th><th>Mecanismo / confort</th><th>Código técnico</th><th>Estado de naming</th></tr>
     <tr><td><b>Core</b></td><td>Grupal, 4 asientos</td><td>Butaca ergonómica estándar, sin reclinado propio. Instalada hoy en todas las salas</td><td>S4 (mencionado en piezas técnicas existentes)</td><td>Sin nombre propio todavía. Fuera del alcance actual salvo que se sume</td></tr>
     <tr><td><b>Luxury</b></td><td>Grupal, 4 asientos, mismo formato que Core</td><td>Mayor confort por tamaño y relleno (más mullida), detalle de bordado dorado/negro. <b>No es un mecanismo reclinable</b>: el confort es de material y volumen, no de postura</td><td>Sin confirmar todavía</td><td><b>En naming: parte de este trabajo</b></td></tr>
     <tr><td><b>Recliner</b></td><td>Individual, 1 asiento, montado sobre sistema "on riser"</td><td>El único de los tres con mecanismo de reclinado real. Grado de reclinado y dimensiones exactas: sin confirmar todavía (a pedir al cliente si hace falta para el naming)</td><td>S1 / ONE</td><td><b>En naming: parte de este trabajo</b></td></tr>
-  </table>
+  </table></div>
   <p style="font-size:9pt;color:#666;">Nota: Core y Recliner ya tienen código técnico interno (S4 y S1 respectivamente, patrón "S + número de asientos/módulo"). Luxury todavía no tiene uno, puede ser parte de lo que se defina en esta etapa.</p>
 
   <h2 class="sub">Magnify 8 (M8) y el sufijo "+": relevancia para este análisis</h2>
@@ -574,27 +617,27 @@ ul.checks li:before{
   <p>Se completó el relevamiento de mercado pendiente (Inorca como punto de partida, sumado al resto del sector): fabricantes que compiten directo con el producto de Lumma, y las líneas propias de los grandes exhibidores de EE.UU., mercado donde Lumma también busca registro y donde ya tiene oficina.</p>
 
   <h2 class="sub">Fabricantes que compiten con el producto de Lumma</h2>
-  <table>
+  <div class="table-scroll"><table>
     <tr><th>Marca</th><th>Qué ofrece / compite con</th><th>Dónde opera</th><th>Nombres que usa</th></tr>
     <tr><td><b>Inorca</b></td><td>Butacas reclinables "on riser" premium, compite directo con el Recliner</td><td>España, con distribución en Europa y Latinoamérica (65+ años en el rubro)</td><td>Bela, Cubo, Gora, Juno, Maya (línea general); Aurora, Milano (luxury recliners) + código "Recliners On Risers"</td></tr>
     <tr><td><b>D-BOX</b></td><td>Movimiento háptico sincronizado: el competidor más directo del sistema 4D E-Motion en sí, no solo del mueble</td><td>Sede en Canadá, presente en 40+ países. Fuerte en EE.UU., Alemania (700+ salas) y Latinoamérica (126 salas); Cinemark es su socio principal en la región</td><td>Classic Seat (base); "Luxury Recliner", "Luxury Compact" (tecnología "Haptic+")</td></tr>
     <tr><td><b>Skeie</b></td><td>Butacas de cine boutique/premium</td><td>Noruega, mercado europeo (45+ años, diseño escandinavo)</td><td>Solist, Solist Lux, Sonate Recliner, Chaiselounge</td></tr>
     <tr><td><b>Leadcom</b></td><td>Butacas estándar y VIP recliner</td><td>China, con clientes en 170+ países, el de mayor escala global del listado (14M asientos instalados)</td><td>Maestro (On Riser, Zero Gravity Premium, Chaise Lounger)</td></tr>
     <tr><td><b>Irwin Seating</b></td><td>Butacas de auditorio y cine</td><td>EE.UU. (Michigan), desde 1907, mercado norteamericano</td><td>Spectrum Lounger (base); Spectrum ZG4, Spectrum RoR (reclinables)</td></tr>
-  </table>
+  </table></div>
 
   <h2 class="sub">Exhibidores de EE.UU. con línea premium propia</h2>
   <p>No fabrican butacas, pero definen el nombre que un exhibidor en EE.UU. ya asocia a "sala premium", relevante porque Lumma busca registro justo en ese mercado.</p>
-  <table>
+  <div class="table-scroll"><table>
     <tr><th>Cadena</th><th>Escala</th><th>Línea premium propia</th></tr>
     <tr><td><b>AMC Theatres</b></td><td>Mayor cadena de EE.UU.</td><td>AMC Signature Recliners; sala premium: Dolby Cinema at AMC (antes "AMC Prime", renombrado en 2017)</td></tr>
     <tr><td><b>Regal Cinemas</b></td><td>Segunda mayor cadena de EE.UU.</td><td>Regal Luxury Recliner; sala premium: RPX (Regal Premium Experience)</td></tr>
     <tr><td><b>Cinemark</b></td><td>EE.UU. + fuerte presencia en Latinoamérica (mismo mercado donde opera Lumma)</td><td>Luxury Loungers® (registrado, confirmado)</td></tr>
-  </table>
+  </table></div>
 
   <h2 class="sub">Comparación por nivel de producto</h2>
   <p>Cruce de cada competidor con el equivalente a los tres niveles de Lumma (Core / Luxury / Recliner):</p>
-  <table>
+  <div class="table-scroll"><table>
     <tr><th>Marca</th><th>Nivel estándar (equiv. Core)</th><th>Nivel premium no reclinable (equiv. Luxury)</th><th>Nivel reclinable individual (equiv. Recliner)</th></tr>
     <tr><td><b>Lumma</b></td><td>Core, sin nombre propio confirmado</td><td>Luxury, a nombrar en esta etapa</td><td>Recliner: S1/ONE (técnico), marca a definir</td></tr>
     <tr><td>Inorca</td><td>Bela, Cubo, Gora, Juno, Maya...</td><td>Sin nivel propio</td><td>Aurora, Milano + Recliners On Risers</td></tr>
@@ -605,7 +648,7 @@ ul.checks li:before{
     <tr><td>AMC</td><td>AMC Club Rockers</td><td>Sin nivel propio</td><td>AMC Signature Recliners</td></tr>
     <tr><td>Regal</td><td>Sin marca propia</td><td>Sin nivel propio</td><td>Regal Luxury Recliner</td></tr>
     <tr><td>Cinemark</td><td>Sin marca propia</td><td>Sin nivel propio</td><td>Luxury Loungers®</td></tr>
-  </table>
+  </table></div>
   <p style="font-size:9pt;color:#666;">Lectura: casi ningún competidor releva un nivel intermedio equivalente a Luxury, mullido/premium pero sin mecanismo reclinable. La mayoría salta directo de "estándar sin nombre" a "reclinable premium", lo que deja ese territorio mayormente libre para Lumma.</p>
 
   <p><b>Por qué importa para la shortlist:</b> "Prime" tiene antecedente directo en el rubro: fue el nombre del formato premium de AMC hasta 2017 (renombrado a Dolby Cinema at AMC), sin uso activo hoy pero con historial en el mismo sector. "Luxury" es el término más repetido entre competidores (D-BOX, Regal, Cinemark), no es exclusivo de ninguna marca puntual, pero está saturado como palabra descriptiva. Ninguno de los dos descarta esos nombres de plano, pero pesan en el chequeo de disponibilidad formal antes de cerrar la shortlist final (20-21/8).</p>
