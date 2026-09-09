@@ -1,6 +1,8 @@
 # Lumma / 4D E-Motion — Research de Competidores y Relevamiento Semántico (Naming)
 ## Fecha: 11/ago/2026 · Corregido y ampliado el 17/ago/2026
 
+📌 **Versión histórica (v1).** Reemplazada por [`Research_Competidores_Naming_v2.md`](Research_Competidores_Naming_v2.md) el 9/sept/2026, que corrige la clasificación de competidores vs. partners/exhibidores tras la reunión del 2/sept con Antonela. Se conserva sin modificar como registro de esa etapa del análisis.
+
 Research de mercado — fabricantes de butacas de cine premium/reclinables y terminología del sector. Insumo directo para curar la shortlist de la sección 7 de [Lumma_4D_EMotion_Base_Proyecto.md](Lumma_4D_EMotion_Base_Proyecto.md), aplicando los filtros definidos en [Territorio_Naming_Punto1.md](Territorio_Naming_Punto1.md).
 
 ⚠️ **Corrección (17/ago):** una revisión posterior encontró dos imprecisiones en la versión original de este documento — quedan corregidas acá y detalladas en la sección 2.1. "AMC Prime" no es una marca activa hoy (fue renombrada en 2017) y "Regal Luxe" no pudo verificarse como nombre real de Regal Cinemas.

@@ -1,6 +1,8 @@
 # Lumma / 4D E-Motion — Territorio de Naming (Punto 1)
 ## Fecha: 11/ago/2026
 
+📌 **Versión histórica (v1).** Reemplazada por [`Territorio_Naming_Punto1_v2.md`](Territorio_Naming_Punto1_v2.md) el 9/sept/2026, que saca "Zen" del territorio de Recliner y corrige el filtro de competidores tras la reunión del 2/sept. Se conserva sin modificar como registro de esa etapa del análisis.
+
 Primer análisis de la etapa de Naming, previo a research de competidores y generación de nombres. Define el ADN verbal de la marca paraguas "4D E-Motion" y traduce los criterios ya acordados con Antonela en un territorio de naming operable. Complementa a [Lumma_4D_EMotion_Base_Proyecto.md](Lumma_4D_EMotion_Base_Proyecto.md) y [Naming_Punto1_Kickoff.md](Naming_Punto1_Kickoff.md).
 
 ---

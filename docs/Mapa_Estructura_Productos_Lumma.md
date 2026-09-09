@@ -1,6 +1,8 @@
 # Lumma / 4D E-Motion — Mapa Estructural de Productos
 ## Fecha: 12/ago/2026 · Actualizado con respuesta de Florencia Yacante (12/ago) sobre Magnify 8 y "+"
 
+📌 **Versión histórica (v1).** Reemplazada por [`Mapa_Estructura_Productos_Lumma_v2.md`](Mapa_Estructura_Productos_Lumma_v2.md) el 9/sept/2026, que cierra la duda sobre "premium" y suma la reunión del 2/sept. Se conserva sin modificar como registro de esa etapa del análisis.
+
 Mapa de cómo se combinan las líneas de producto y los modificadores de efecto bajo el paraguas 4D E-Motion. Versión confirmada contra dos fuentes primarias: el mail original de Antonela ("DOOH & LUMMA", 22/jul/2026) y la respuesta punto por punto de Florencia Yacante (Head of Design, Lumma) del 12/ago/2026, que corrige la lectura que teníamos sobre Magnify 8 y "+". Complementa a [Lumma_4D_EMotion_Base_Proyecto.md](Lumma_4D_EMotion_Base_Proyecto.md) y [Research_Competidores_Naming.md](Research_Competidores_Naming.md).
 
 ---

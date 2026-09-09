@@ -79,6 +79,8 @@ Florencia Yacante (Lumma) respondió por mail las consultas de DOOH sobre cómo 
 | — | Reunión de definición de criterios de naming (detalle en sección 6) |
 | 12/ago | DOOH envía consulta sobre Magnify 8/"+" y pide listado de combinaciones (ver [Mail_Preguntas_Arquitectura_Productos.md](Mail_Preguntas_Arquitectura_Productos.md)) |
 | 12/ago | Florencia Yacante (Head of Design, Lumma) responde punto por punto — corrige la lectura sobre Magnify 8 y confirma varias combinaciones (detalle en sección 2.1 y en [Mapa_Estructura_Productos_Lumma.md](Mapa_Estructura_Productos_Lumma.md)) |
+| 17/ago | Se envía a Antonela el entregable "Contexto y Territorio de Naming" (HTML) — primer entregable formal de la etapa |
+| 2/sept | Reunión con Antonela Salvador y Florencia Yacante — feedback sobre el entregable, aclara partners vs. competidores, restricciones de naming y próximos pasos (detalle en sección 9) |
 
 ### Reunión de reactivación (20/jul)
 - Cliente histórico con confianza previa fuerte — remarcado por Antonela como activo a favor.
@@ -111,7 +113,7 @@ Modalidad de trabajo: coordinación con Florencia Yacante (Lumma). Disponibilida
   2. **Módulo 4D E-Motion/Luxury** (4 seats) — candidatos: Comfy, Luxury, Lux, Luxe, Deluxe, **y Prime "si no se usa en el S1"** (condicional — ver nota corregida en sección 2 de este documento).
   3. **Recliner (Individual)**, montado en sistema "on riser" — candidatos: Recline, Prime, VIP, One. **"ONE" y "S1" son, en palabras de Antonela, "el nombre técnico"** del modelo — ya funciona como designación interna, con "Designed for Risers" como posible tagline para el exhibidor. Solución para el exhibidor, no de cara al cliente final.
 - **"4D E-Motion +"** — variante transversal por cantidad de efectos/features, "incluye efecto de M8 y puede estar en cualquier modelo" (cita textual). Confirma que no es un paquete con contenido adicional a M8, sino la notación de "modelo + M8".
-- **Riesgo que la propia Antonela ya identificó, antes de nuestro research:** *"Algunas contras que encuentro es que alguno de estos nombres (la mayoría), al ser tan reconocidos por el público... son nombres de compañías de butacas conocidas en algunos mercados o formatos de cines."* — coincide con los hallazgos documentados en `Research_Competidores_Naming.md`: "Prime" tiene antecedente directo en el rubro (AMC, formato renombrado a Dolby Cinema en 2017) y "Luxury" es el término más repetido entre competidores (D-BOX, Regal, Cinemark).
+- **Riesgo que la propia Antonela ya identificó, antes de nuestro research:** *"Algunas contras que encuentro es que alguno de estos nombres (la mayoría), al ser tan reconocidos por el público... son nombres de compañías de butacas conocidas en algunos mercados o formatos de cines."* — coincide con los hallazgos documentados en `Research_Competidores_Naming.md`: "Prime" tiene antecedente directo en el rubro (AMC, formato renombrado a Dolby Cinema en 2017) y "Luxury" es el término más repetido entre competidores (D-BOX, Regal, Cinemark). ⚠️ *Actualización 2/sept: esta nota queda desactualizada — AMC, Regal y Cinemark no son competidores de Lumma (son exhibidores/clientes), y Antonela reabrió "Prime" y "Luxury" explícitamente. Ver `Research_Competidores_Naming_v2.md`, sección 0.*
 - Aclaró que su lista es **"muy de máxima"** — pide que DOOH proponga una propuesta acotada, no que se tome como lista cerrada.
 
 ### Respuesta de Antonela a las 5 preguntas de precisión (24/jul)
@@ -290,3 +292,26 @@ Antonela respondió a la propuesta de Fase 1 (alcance + presupuesto completo) in
 7. ✅ **Resuelto:** Core, Luxury y Recliner son líneas mutuamente excluyentes — confirmado por el propio mail de Antonela (22/jul), que las lista como 3 modelos separados sin variante cruzada. Ver [Mapa_Estructura_Productos_Lumma.md](Mapa_Estructura_Productos_Lumma.md).
 8. Confirmar con Florencia Yacante (pendiente de que ella hable con Antonela): si existen las combinaciones Luxury + y Recliner + (incluye M8), y la posición exacta del "+" en el nombre (sección 2.1).
 9. Conseguir el archivo de logo del "+" que Lumma mencionó haber agregado a la carpeta compartida — todavía no recibido.
+10. ✅ **Resuelto (2/sept):** distinción partners vs. competidores aclarada por Antonela en reunión — ver sección 9 y `Research_Competidores_Naming_v2.md`.
+11. Evaluar y justificar por escrito si "recliner"/"recline" queda en el nombre de marca de Recliner — pedido explícito de Antonela para presentar a los "socios" (ver sección 9).
+12. Confirmar con Antonela el nombre exacto del competidor mencionado como "ADX"/"Ultra" en la reunión del 2/sept — se infiere 4DX/CJ 4DPLEX con alta probabilidad, no confirmado por escrito.
+13. Avanzar con la ronda de generación de nombres y presentar propuestas a los socios de Lumma la semana del 7–11/sept (acordado en la reunión del 2/sept).
+
+---
+
+## 9. Reunión con Antonela Salvador y Florencia Yacante (2/sept)
+
+Reunión de feedback sobre el entregable "Contexto y Territorio de Naming" enviado el 17/ago. Participantes: Antonela Salvador, Florencia Yacante (Lumma), Florencia Alvarez y Fernanda Barreiro (DOOH). Transcripción automática con errores reconocidos por la herramienta — algunos nombres propios se infieren con alta probabilidad, no son cita literal confirmada (marcados como tales).
+
+**Puntos clave:**
+- **Partners vs. competidores, aclarado por Antonela:** los fabricantes de butacas (Inorca, Irwin, etc.) son partners/proveedores, no competidores — Lumma les compra la butaca y le suma su propia tecnología. Los exhibidores (AMC, Regal, Cinemark, Cinépolis) tampoco son competidores — Lumma no compite con los cines, les vende a los cines. Que estos usen "Luxury" o "Prime" no anula esos términos para Lumma. D-BOX sí es competidor directo, confirmado. El competidor "mayor" mencionado (transcripto como "ADX") se infiere como 4DX/CJ 4DPLEX; su producto "Ultra" (probablemente ULTRA 4DX) queda descartado como nombre. Detalle completo en [Research_Competidores_Naming_v2.md](Research_Competidores_Naming_v2.md).
+- **Nombre técnico vs. nombre de marca:** confirmado que hace falta distinguir el nombre hacia el exhibidor (claridad técnica para tablas de precios, ej. "4D E-Motion Recliner + Magnify 8") del nombre hacia el consumidor final.
+- **"Riser" excluido de toda comunicación externa** — generaba confusión en exhibidores en presentaciones anteriores.
+- **Términos de relajación/"zen" excluidos**, especialmente para Recliner — la experiencia es intensa y mecánica (se mueve y vibra estando reclinado), no relajante.
+- **"Soft" aprobado solo para uso interno/ventas**, nunca como nombre de marca al consumidor.
+- **"Premium" aclarado** — es el nombre informal de Core (la butaca actual), no tiene relación con M8/"+". Ver [Mapa_Estructura_Productos_Lumma_v2.md](Mapa_Estructura_Productos_Lumma_v2.md), sección 3.
+- **M8/"+" sigue sin estandarizar** — depende de si se vuelve estándar o sigue siendo opcional, por el costo adicional por butaca.
+- **Diferenciadores de producto confirmados:** Core vs. Luxury es espuma/tapizado (densa y tirante vs. mullida); Recliner vs. los otros dos es formato individual vs. módulo de 4. El grado de reclinado depende del proveedor de butaca, no es dato fijo de Lumma.
+- **Tensión "original vs. reconocible":** Antonela quiere un nombre original pero reconocible, sobre todo para Recliner. Pide que la ronda de generación evalúe y justifique por escrito si "recliner"/"recline" queda como parte del nombre.
+- **Aparece la figura de "socios"** — la decisión final del nombre no es solo de Antonela, se valida con socios de Lumma.
+- **Próximo paso acordado:** DOOH arma propuestas de nombre para ambos productos (usando los tres ejes: sensación, estatus, material) y las presenta la semana siguiente (martes o miércoles).
