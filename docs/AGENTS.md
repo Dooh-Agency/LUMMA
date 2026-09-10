@@ -4,10 +4,11 @@ Reglas específicas para trabajar dentro de esta carpeta. Ver también el [`AGEN
 
 ## Qué hay acá
 
-Toda la documentación del proyecto Lumma / 4D E-Motion. Dos subcarpetas con reglas propias:
+Toda la documentación del proyecto Lumma / 4D E-Motion. Tres subcarpetas con reglas propias:
 
 - **[`brand/`](brand/AGENTS.md)** — material de marca fuente, provisto por el cliente. Solo lectura.
 - **[`entregables/`](entregables/AGENTS.md)** — documentos que se envían o presentan al cliente. Reglas de formato/calidad más estrictas.
+- **[`fuentes/`](fuentes/AGENTS.md)** — transcripciones y mails fuente primaria del cliente, en texto. Registro histórico, solo lectura. Ante contradicción con un resumen interno, prima la fuente.
 
 ## Mapa de documentos (nivel raíz de /docs)
 
@@ -22,6 +23,8 @@ Toda la documentación del proyecto Lumma / 4D E-Motion. Dos subcarpetas con reg
 | `Mapa_Estructura_Productos_Lumma_v2.md` | Arquitectura de producto de Lumma (Core/Luxury/Recliner + Magnify 8/"+"), con la duda de "premium" cerrada y la tarea de "recliner en el nombre sí/no" agregada. |
 | `Mail_Validacion_Contexto_Territorio.md` | Mail enviado a Antonela con el entregable HTML, pidiendo validación — histórico, ya cumplió su función (la reunión del 2/sept fue la respuesta). |
 | `Consolidado_Naming_Punto1_Avance.md` | Resumen ejecutivo de avance al 17/8, pensado para reuniones de estado. Contiene hallazgos de competidores ya superados por la v2 — al citarlo, preferir los datos de la v2. |
+| `Ronda_Nombres_Luxury_Recliner.md` | Primera ronda de generación de nombres (borrador de práctica, sin curar). Base para la shortlist a presentar a los socios de Lumma. |
+| `Avance_Naming_Consolidado.html` | Documento interno consolidado (post reunión 2/sept) para compartir con el equipo por WhatsApp/mobile. No es entregable de cliente. Resume territorio v2 + ronda de nombres. |
 
 **Históricos (no editar, solo consultar si hace falta ver el razonamiento previo):**
 
