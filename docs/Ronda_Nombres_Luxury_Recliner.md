@@ -1,7 +1,7 @@
 # Lumma / 4D E-Motion — Ronda de generación de nombres (Luxury + Recliner)
-## Fecha: 10/sept/2026 · Borrador de práctica — SIN curar
+## Fecha: 10/sept/2026 · Curada el 11/sept/2026
 
-⚠️ **Estado: primera pasada, sin curaduría.** Falta: chequeo lingüístico (ES/EN/PT), chequeo de disponibilidad preliminar, contraste contra los tres ejes, y resolución de la pregunta "recliner en el nombre sí/no". No presentar así al cliente.
+✅ **Estado: curada.** Chequeo lingüístico básico (ES/EN/PT) aplicado, "Prime" asignado a un solo modelo, y justificación escrita de "recliner en el nombre sí/no" resuelta. Pendiente todavía: chequeo de disponibilidad formal (dominio/uso previo, Clase 20) — no reemplaza estudio marcario.
 
 Trabajo sobre la base ya corregida: [`Territorio_Naming_Punto1_v2.md`](Territorio_Naming_Punto1_v2.md), [`Research_Competidores_Naming_v2.md`](Research_Competidores_Naming_v2.md), [`Mapa_Estructura_Productos_Lumma_v2.md`](Mapa_Estructura_Productos_Lumma_v2.md) y la reunión del 2/sept ([`fuentes/Reunion_2sept2026_transcripcion.md`](fuentes/Reunion_2sept2026_transcripcion.md)).
 
@@ -13,52 +13,80 @@ Trabajo sobre la base ya corregida: [`Territorio_Naming_Punto1_v2.md`](Territori
 - **Luxury** → campo sensorial/material (espuma mullida, tapizado blando, bordado dorado/negro).
 - **Recliner** → campo función/mecanismo/postura. Nunca relajación.
 - **Excluido de plano:** "Riser", relajación/tranquilidad/"Zen", "Ultra" (competidor 4DX), "Soft" como nombre de marca al consumidor.
-- **Reabierto (ya no descartado por colisión de competidor):** "Prime", "Luxury"/"Lux" — sujeto igual al chequeo de disponibilidad formal más adelante.
+- **Reabierto:** "Prime", "Luxury"/"Lux" — ya no descartados por colisión de competidor, sujetos igual al chequeo de disponibilidad formal.
 
 ---
 
-## Luxury — 10 candidatos
+## Luxury — shortlist curada (7 de 10 originales)
 
-| Nombre | Eje | Por qué funciona | Riesgo / nota |
+Chequeo lingüístico básico ES/EN/PT aplicado a los 10 candidatos de la primera pasada. Se descartan 3 por colisión de significado o reconocimiento muy bajo; los que quedan con precaución se marcan, no se eliminan.
+
+| Nombre | Eje | Por qué funciona | Chequeo lingüístico (ES/EN/PT) |
 |---|---|---|---|
-| **Velvet** | Sensación | Textura mullida sin decir "lujo" literal; funciona en ES/EN | Ya venía de la exploración previa |
-| **Aurea** | Material | Conecta directo con el bordado dorado real del producto | Menos obvio a primera escucha, necesita apoyo visual |
-| **Plush** | Sensación | Corto, describe literalmente la espuma mullida | Muy descriptiva — puede sonar genérica sin el paraguas |
-| **Gilt** | Material | Remite a dorado sin ser "Gold" (muy usado); corto y distintivo | Poco conocido en español |
-| **Regal** | Estatus | Cine + estatus en una palabra — reabierto tras el 2/sept | Palabra de diccionario, chequeo de registrabilidad |
-| **Prime** | Estatus | Validado explícitamente por Antonela — ya no colisiona con "competidor" | Compite internamente con Recliner (ver abajo) |
-| **Cloud** | Sensación | Metáfora simple de hundirse/flotar, muy reconocible en ambos idiomas | Puede sonar a colchón más que a cine si no se ancla |
-| **Loom** | Material | Corto, remite al tejido/tapizado sin ser literal | Poco evidente sin contexto |
-| **Damask** | Material | Tela ornamentada, conecta con el detalle textil real | Más largo, menos simple |
-| **Noble** | Estatus | Directo, funciona en varios idiomas | Cercano a "Regal" — no usar los dos juntos |
+| **Velvet** | Sensación | Textura mullida sin decir "lujo" literal | Sin observaciones — se lee y pronuncia bien en los tres idiomas |
+| **Aurea** | Material | Conecta con el bordado dorado real del producto | Palabra cognada en español y portugués ("áurea" = dorada) — el mejor resultado lingüístico de la lista |
+| **Noble** | Estatus | Directo, funciona en varios idiomas | Cognado limpio en los tres idiomas, sin doble sentido |
+| **Prime** | Estatus | Validado por Antonela, ya no colisiona con competidor | Sin problema — en portugués además es slang positivo actual ("isso é prime") |
+| **Regal** | Estatus | Cine + estatus en una palabra | ⚠️ Precaución: coincide con el nombre de un exhibidor real (Regal Cinemas) — no es bloqueo por competencia (es cliente, no competidor), pero puede generar una confusión de marca distinta si ese mismo exhibidor termina comprando el producto |
+| **Cloud** | Sensación | Metáfora de hundirse/flotar, muy reconocible | ⚠️ Precaución leve: puede asociarse a "cómputo en la nube" antes que a confort, en contextos técnicos |
+| **Plush** | Sensación | Describe literalmente la espuma mullida | ⚠️ Precaución leve: en portugués puede sonar cercano a "pelúcia" (peluche/juguete de tela), riesgo de sonar infantil |
+
+**Descartados en esta curación:**
+- ~~**Gilt**~~ — homófono de *"guilt"* (culpa) en inglés. Riesgo real de asociación negativa, se descarta directo.
+- ~~**Damask**~~ — en español, "damasco" significa mayormente *albaricoque* (la fruta), no el patrón textil. Confunde más de lo que aporta.
+- ~~**Loom**~~ — reconocimiento muy bajo fuera del inglés (significa "telar"); la mayoría del público no capta la referencia sin explicación.
 
 ---
 
-## Recliner — dos caminos (pedido explícito de Antonela)
+## Recliner — dos caminos, curados
 
-### Camino A — conserva la raíz "recline" (más reconocible, menos original)
+### Camino A — conserva la raíz "recline"
 
-| Nombre | Por qué funciona | Riesgo / nota |
+| Nombre | Por qué funciona | Chequeo lingüístico |
 |---|---|---|
-| **Recline** | Literal, cero ambigüedad para exhibidor y consumidor | Antonela lo señaló como "lo obvio" — poco diferencial de marca |
-| **Kline** | Viene de la raíz griega de "recline" (*klínein*); suena a marca propia sin perder el eco funcional | Requiere explicar el origen; puede leerse como apellido |
+| **Recline** | Literal, cero ambigüedad para exhibidor y consumidor | Sin problema de significado — no es palabra nativa en ES/PT pero se lee sin esfuerzo |
+| **Kline** | Raíz griega de "recline" (*klínein*), suena a marca propia | ⚠️ Precaución: fonética y visualmente cercano a "Klein" (Calvin Klein) — riesgo de asociación con una marca de moda conocida y ajena |
 
-### Camino B — evita "recline" literal (más original, función/mecanismo, sin relajación)
+### Camino B — evita "recline" literal
 
-| Nombre | Por qué funciona | Riesgo / nota |
+| Nombre | Por qué funciona | Chequeo lingüístico |
 |---|---|---|
-| **One** | Ya usado informalmente por Antonela para "individual" | Muy corto/genérico, chequear registrabilidad |
-| **Pivot** | Mecanismo, dinámico — no suena a relax | Más técnico que emocional |
-| **Tilt** | Corto, describe el movimiento sin decir "reclinar" | Puede sonar demasiado literal-técnico |
-| **Axis** | Individual + mecanismo, distintivo | Abstracto, necesita anclaje visual fuerte |
-| **Flex** | Sugiere movimiento/ajuste — venía de la exploración previa | Menos "premium" que otras opciones |
+| **One** | Ya usado informalmente por Antonela para "individual" | Sin problema — universal en los tres idiomas |
+| **Pivot** | Mecanismo, dinámico, no relax | Cognado limpio ("pivote"/"pivô" en ES/PT) |
+| **Axis** | Individual + mecanismo, distintivo | Cognado técnico entendible ("eje" es la palabra nativa, "axis" se entiende en contexto técnico/anatómico) |
+| **Tilt** | Describe el movimiento sin decir "reclinar" | ⚠️ Precaución: en jerga gamer (ES/PT) "dar tilt"/"estar tildado" significa perder la compostura por enojo — riesgo con público joven familiarizado con gaming |
+| **Flex** | Sugiere movimiento/ajuste | ⚠️ Precaución: hoy es slang muy instalado para "alardear/mostrar músculo" — tono más informal/calle que el resto de la marca |
 
 ---
 
-## Puntos a resolver antes de presentar
+## Resolución — asignación de "Prime"
 
-1. **"Prime" está en las dos listas** (Luxury y Recliner) — asignarlo a un solo modelo.
-2. **Pregunta para los socios de Lumma:** ¿el nombre de marca de Recliner incluye "recliner"/"recline" (reconocible, menos original) o lo evita en favor de un nombre propio (más original, función menos clara a primera vista)? Resolver y justificar por escrito, no dejar implícito.
-3. Chequeo lingüístico (ES/EN/PT) de los finalistas.
-4. Chequeo de disponibilidad preliminar (dominio/uso previo) de los finalistas.
-5. Investigar características generales de "recliner on riser" para cine (referencia Inorca) para tener vocabulario técnico de respaldo.
+"Prime" aparecía en ambas listas desde el mail original de Antonela (22/jul), condicional a "si no se usa en el S1" — es decir, su propia inclinación ya lo priorizaba para Recliner. Sumado a que "Prime" tiene mejor encaje en el registro B2B/exhibidor (comparación de modelos, "opción prime" como jerga comercial) que en el registro sensorial de Luxury:
+
+**Se asigna "Prime" a Recliner.** Se retira de la shortlist de Luxury (que de todos modos ya tiene "Regal" y "Noble" cubriendo el eje de Estatus).
+
+---
+
+## Justificación — "recliner"/"recline" en el nombre: sí o no
+
+Tarea pedida explícitamente por Antonela: no solo proponer nombres, sino dejar por escrito el análisis para que los socios de Lumma decidan.
+
+**A favor de conservarlo (Camino A):**
+- Cero curva de aprendizaje para el exhibidor — en una tabla de precios o propuesta comercial, la claridad pesa más que la originalidad.
+- Es el término que ya usa toda la industria como descriptor (Inorca, Irwin, D-BOX) — no hay que "enseñarle" al mercado qué es.
+- La propia Antonela reconoció en la reunión que es difícil transmitir la función sin usar la palabra.
+
+**A favor de evitarlo (Camino B):**
+- "Recliner" es un término descriptivo genérico del rubro — una marca construida sobre una palabra puramente descriptiva es, en general, más débil para registrar y defender legalmente que un nombre propio.
+- Mejor arquitectura a futuro: si Lumma lanza otro formato reclinable con otra tecnología más adelante, un nombre propio no queda atado a ese mecanismo específico.
+- Es más consistente con la lógica de marca que Lumma ya usa: "Magnify 8", "Core" y el propio "4D E-Motion" son nombres propios, no descriptores literales de función.
+
+**Recomendación de DOOH:** ir por el **Camino B** (nombre propio, sin "recline" literal), con una condición — el nombre elegido debe evocar el mecanismo sin necesitar explicación (como "Pivot" o "Axis", que sugieren movimiento/ajuste sin decir "reclinar"). La claridad hacia el exhibidor no depende solo del nombre de marca: ya hoy "4D E-Motion" no explica literalmente "vibración + movimiento + efectos" y sin embargo funciona, porque la claridad se resuelve en la ficha técnica y la comunicación comercial, no en el nombre. La decisión final queda para los socios.
+
+---
+
+## Pendiente
+
+1. Chequeo de disponibilidad preliminar (dominio/uso previo) de los finalistas — no reemplaza estudio marcario formal.
+2. Investigar características generales de "recliner on riser" para cine (referencia Inorca) para tener vocabulario técnico de respaldo.
+3. Confirmar con Antonela el nombre exacto del competidor "ADX"/"Ultra" mencionado en la reunión del 2/sept.

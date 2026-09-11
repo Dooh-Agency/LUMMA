@@ -23,8 +23,9 @@ Toda la documentación del proyecto Lumma / 4D E-Motion. Tres subcarpetas con re
 | `Mapa_Estructura_Productos_Lumma_v2.md` | Arquitectura de producto de Lumma (Core/Luxury/Recliner + Magnify 8/"+"), con la duda de "premium" cerrada y la tarea de "recliner en el nombre sí/no" agregada. |
 | `Mail_Validacion_Contexto_Territorio.md` | Mail enviado a Antonela con el entregable HTML, pidiendo validación — histórico, ya cumplió su función (la reunión del 2/sept fue la respuesta). |
 | `Consolidado_Naming_Punto1_Avance.md` | Resumen ejecutivo de avance al 17/8, pensado para reuniones de estado. Contiene hallazgos de competidores ya superados por la v2 — al citarlo, preferir los datos de la v2. |
-| `Ronda_Nombres_Luxury_Recliner.md` | Primera ronda de generación de nombres (borrador de práctica, sin curar). Base para la shortlist a presentar a los socios de Lumma. |
+| `Ronda_Nombres_Luxury_Recliner.md` | Ronda de generación de nombres, curada (chequeo lingüístico ES/EN/PT aplicado, "Prime" asignado a Recliner, justificación de "recliner en el nombre" resuelta). Base del segundo entregable. |
 | `Avance_Naming_Consolidado.html` | Documento interno consolidado (post reunión 2/sept) para compartir con el equipo por WhatsApp/mobile. No es entregable de cliente. Resume territorio v2 + ronda de nombres. |
+| `entregables/Lumma_Ajustes_y_Tanda_de_Nombres.html` | **Segundo entregable de cliente** — ajustes incorporados de la reunión del 2/sept + primera tanda de nombres curada + análisis "recliner en el nombre sí/no". Mismo estilo visual que el primer entregable. |
 
 **Históricos (no editar, solo consultar si hace falta ver el razonamiento previo):**
 
