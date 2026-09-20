@@ -1,92 +1,123 @@
 # Lumma / 4D E-Motion — Ronda de generación de nombres (Luxury + Recliner)
-## Fecha: 10/sept/2026 · Curada el 11/sept/2026
+## Fecha: 10/sept/2026 · Curada 11/sept · Actualizada 20/sept tras devolución de Lumma (reunión 18/sept)
 
-✅ **Estado: curada.** Chequeo lingüístico básico (ES/EN/PT) aplicado, "Prime" asignado a un solo modelo, y justificación escrita de "recliner en el nombre sí/no" resuelta. Pendiente todavía: chequeo de disponibilidad formal (dominio/uso previo, Clase 20) — no reemplaza estudio marcario.
+✅ **Estado: ronda 2, post-devolución del cliente.** Se incorporan los descartes y observaciones de la reunión del 18/9 ([`fuentes/Reunion_18sept2026_transcripcion.md`](fuentes/Reunion_18sept2026_transcripcion.md)). ⚠️ **La lista de Luxury quedó muy corta (2 candidatos) — hace falta una ronda de generación nueva antes del viernes.**
 
-Trabajo sobre la base ya corregida: [`Territorio_Naming_Punto1_v2.md`](Territorio_Naming_Punto1_v2.md), [`Research_Competidores_Naming_v2.md`](Research_Competidores_Naming_v2.md), [`Mapa_Estructura_Productos_Lumma_v2.md`](Mapa_Estructura_Productos_Lumma_v2.md) y la reunión del 2/sept ([`fuentes/Reunion_2sept2026_transcripcion.md`](fuentes/Reunion_2sept2026_transcripcion.md)).
+Trabajo sobre la base ya corregida: [`Territorio_Naming_Punto1_v2.md`](Territorio_Naming_Punto1_v2.md), [`Research_Competidores_Naming_v2.md`](Research_Competidores_Naming_v2.md), [`Mapa_Estructura_Productos_Lumma_v2.md`](Mapa_Estructura_Productos_Lumma_v2.md).
 
 ---
 
-## Filtros aplicados
+## Filtros aplicados (actualizados)
 
 - **Ejes:** Sensación · Estatus · Material/detalle.
-- **Luxury** → campo sensorial/material (espuma mullida, tapizado blando, bordado dorado/negro).
+- **Luxury** → campo sensorial/material, evitando que la palabra suene infantil/lúdica (aprendizaje nuevo de esta ronda, ver abajo).
 - **Recliner** → campo función/mecanismo/postura. Nunca relajación.
-- **Excluido de plano:** "Riser", relajación/tranquilidad/"Zen", "Ultra" (competidor 4DX), "Soft" como nombre de marca al consumidor.
-- **Reabierto:** "Prime", "Luxury"/"Lux" — ya no descartados por colisión de competidor, sujetos igual al chequeo de disponibilidad formal.
+- **Excluido de plano:** "Riser", relajación/tranquilidad/"Zen", "Ultra" (competidor 4DX), "Soft" como nombre de marca al consumidor (sí válido combinado, ver sección de arquitectura).
+- **🆕 Excluido:** cualquier término que colisione con **"lateral tilt"**, el nombre ya usado internamente para el efecto de movimiento lateral del sistema.
+- **Reabierto, sigue vigente:** "Prime" — ya no descartado por colisión de competidor, sujeto igual al chequeo de disponibilidad formal.
 
 ---
 
-## Luxury — shortlist curada (7 de 10 originales)
+## Luxury — shortlist tras la devolución (2 sobrevivientes de 7)
 
-Chequeo lingüístico básico ES/EN/PT aplicado a los 10 candidatos de la primera pasada. Se descartan 3 por colisión de significado o reconocimiento muy bajo; los que quedan con precaución se marcan, no se eliminan.
+⚠️ **Esta lista quedó demasiado corta para presentar.** Lumma descartó 4 de los 7 candidatos en la reunión del 18/9, y "Prime" ya se había reasignado a Recliner en la curación anterior. Hace falta generar candidatos nuevos en el eje Sensación/Material antes de la próxima reunión — ver la nota de aprendizaje más abajo.
 
-| Nombre | Eje | Por qué funciona | Chequeo lingüístico (ES/EN/PT) |
+| Nombre | Eje | Estado | Por qué |
 |---|---|---|---|
-| **Velvet** | Sensación | Textura mullida sin decir "lujo" literal | Sin observaciones — se lee y pronuncia bien en los tres idiomas |
-| **Aurea** | Material | Conecta con el bordado dorado real del producto | Palabra cognada en español y portugués ("áurea" = dorada) — el mejor resultado lingüístico de la lista |
-| **Noble** | Estatus | Directo, funciona en varios idiomas | Cognado limpio en los tres idiomas, sin doble sentido |
-| **Prime** | Estatus | Validado por Antonela, ya no colisiona con competidor | Sin problema — en portugués además es slang positivo actual ("isso é prime") |
-| **Regal** | Estatus | Cine + estatus en una palabra | ⚠️ Precaución: coincide con el nombre de un exhibidor real (Regal Cinemas) — no es bloqueo por competencia (es cliente, no competidor), pero puede generar una confusión de marca distinta si ese mismo exhibidor termina comprando el producto |
-| **Cloud** | Sensación | Metáfora de hundirse/flotar, muy reconocible | ⚠️ Precaución leve: puede asociarse a "cómputo en la nube" antes que a confort, en contextos técnicos |
-| **Plush** | Sensación | Describe literalmente la espuma mullida | ⚠️ Precaución leve: en portugués puede sonar cercano a "pelúcia" (peluche/juguete de tela), riesgo de sonar infantil |
+| **Noble** | Estatus | ✅ En pie | Sin objeciones en la reunión del 18/9 |
+| **Aurea** | Material | ⚠️ En duda seria | Lumma no lo descartó formalmente, pero ambas plantearon una objeción fuerte: se lee como nombre de *formato/marca* (compite en escala con "4D E-Motion"), no como línea de producto. Falla el criterio de "asociación para el espectador promedio" — no queda claro por qué esa butaca es diferente solo con el nombre. Cumple originalidad, no cumple asociación (ver tabla de criterios) |
 
-**Descartados en esta curación:**
-- ~~**Gilt**~~ — homófono de *"guilt"* (culpa) en inglés. Riesgo real de asociación negativa, se descarta directo.
-- ~~**Damask**~~ — en español, "damasco" significa mayormente *albaricoque* (la fruta), no el patrón textil. Confunde más de lo que aporta.
-- ~~**Loom**~~ — reconocimiento muy bajo fuera del inglés (significa "telar"); la mayoría del público no capta la referencia sin explicación.
+**Descartados en la reunión del 18/9:**
+- ~~**Velvet**~~ — sugiere que la butaca es literalmente de terciopelo/gamuza, y no lo es. *(Motivo nuevo: no lo habíamos detectado en el chequeo lingüístico — era un problema de precisión material, no de idioma.)*
+- ~~**Regal**~~ — coincide con el nombre de un exhibidor real de EE.UU. (Regal Cinemas); confirma la precaución que ya habíamos marcado nosotros mismos.
+- ~~**Cloud**~~ — suena demasiado lúdico/infantil ("juego", no "diversión").
+- ~~**Plush**~~ — mismo motivo que Cloud: infantiliza en vez de evocar confort premium.
+
+**Aprendizaje para la próxima ronda de generación:** el patrón de descarte de Velvet/Cloud/Plush es consistente — palabras sensoriales "blandas" (que evocan mullido/suave) tienden a leerse como infantiles/lúdicas si no se anclan a algo más adulto o técnico. Hay que buscar en el eje Sensación/Material sin caer en ese registro (ej. materiales, texturas o términos con peso "adulto"/premium, no términos de juguete o de confort genérico).
 
 ---
 
-## Recliner — dos caminos, curados
+## Recliner — shortlist tras la devolución (5 candidatos, con debate abierto)
 
 ### Camino A — conserva la raíz "recline"
 
-| Nombre | Por qué funciona | Chequeo lingüístico |
+| Nombre | Estado | Por qué |
 |---|---|---|
-| **Recline** | Literal, cero ambigüedad para exhibidor y consumidor | Sin problema de significado — no es palabra nativa en ES/PT pero se lee sin esfuerzo |
-| **Kline** | Raíz griega de "recline" (*klínein*), suena a marca propia | ⚠️ Precaución: fonética y visualmente cercano a "Klein" (Calvin Klein) — riesgo de asociación con una marca de moda conocida y ajena |
+| **Recline** | ✅ En pie | Sin objeciones nuevas en la reunión del 18/9 |
+| ~~**Kline**~~ | ❌ Descartado | Confirmado en la reunión: la asociación fonética con Calvin Klein es "inevitable", según Florencia Yacante — coincide con lo que ya habíamos flageado |
 
 ### Camino B — evita "recline" literal
 
-| Nombre | Por qué funciona | Chequeo lingüístico |
+| Nombre | Estado | Por qué |
 |---|---|---|
-| **One** | Ya usado informalmente por Antonela para "individual" | Sin problema — universal en los tres idiomas |
-| **Pivot** | Mecanismo, dinámico, no relax | Cognado limpio ("pivote"/"pivô" en ES/PT) |
-| **Axis** | Individual + mecanismo, distintivo | Cognado técnico entendible ("eje" es la palabra nativa, "axis" se entiende en contexto técnico/anatómico) |
-| **Tilt** | Describe el movimiento sin decir "reclinar" | ⚠️ Precaución: en jerga gamer (ES/PT) "dar tilt"/"estar tildado" significa perder la compostura por enojo — riesgo con público joven familiarizado con gaming |
-| **Flex** | Sugiere movimiento/ajuste | ⚠️ Precaución: hoy es slang muy instalado para "alardear/mostrar músculo" — tono más informal/calle que el resto de la marca |
+| **One** | ✅ En pie | Sin objeciones nuevas |
+| **Axis** | ⚠️ En debate | Antonela lo prefiere; Florencia Yacante también lo señaló con buena impresión inicial. Ninguna de las dos siente que evoque "recliner" con claridad por sí solo |
+| **Flex** | ⚠️ En debate, con desacuerdo interno en Lumma | Florencia Yacante lo asocia al Recliner (mecanismo, "se quiebra/dobla"); Antonela lo asocia al Soft/Luxury (confort, flexibilidad). Riesgo: si termina yendo para Luxury, colisiona con la asignación de Recliner |
+| **Prime** | ✅ En pie (reasignado desde Luxury) | Ver resolución de la ronda anterior |
+| ~~**Pivot**~~ | ❌ Descartado | Colisiona con "lateral tilt" |
+| ~~**Tilt**~~ | ❌ Descartado | Colisiona directamente con "lateral tilt", el nombre técnico ya en uso |
 
 ---
 
-## Resolución — asignación de "Prime"
+## Tabla de criterios — Originalidad × Asociación
 
-"Prime" aparecía en ambas listas desde el mail original de Antonela (22/jul), condicional a "si no se usa en el S1" — es decir, su propia inclinación ya lo priorizaba para Recliner. Sumado a que "Prime" tiene mejor encaje en el registro B2B/exhibidor (comparación de modelos, "opción prime" como jerga comercial) que en el registro sensorial de Luxury:
+Pedida explícitamente por Antonela en la reunión del 18/9: *"si hacemos una tabla de qué cumple y qué no [...] esa parte no lo cumple [Aurea], cumple lo de original [...] pero no cumple la parte de asociar [para el espectador promedio]."* Se arma acá un primer borrador con los candidatos que siguen en pie, para llevar a la reunión del viernes junto con la que preparen Antonela y Florencia Yacante.
 
-**Se asigna "Prime" a Recliner.** Se retira de la shortlist de Luxury (que de todos modos ya tiene "Regal" y "Noble" cubriendo el eje de Estatus).
+| Nombre | Modelo | Asociación (¿el espectador promedio entiende qué es, sin explicar?) | Originalidad (¿es distintivo, no genérico?) |
+|---|---|---|---|
+| Noble | Luxury | Media — remite a "categoría/calidad", no a mullido específicamente | Media-baja — palabra de diccionario, poco distintiva |
+| Aurea | Luxury | Baja — confirmado en la reunión, se lee como marca/formato | Alta — muy distintivo, pero quizás demasiado |
+| Recline | Recliner | Alta — literal | Baja — "lo obvio", poco diferencial de marca |
+| One | Recliner | Media — se entiende "individual", no "reclinable" | Media |
+| Axis | Recliner | Baja — ninguna de las dos partes lo asocia a recliner | Alta |
+| Flex | Recliner | Baja-media — asociación dividida incluso dentro de Lumma | Media — slang instalado, compite en tono con la marca |
+| Prime | Recliner | Baja — no evoca "reclinable", es puramente de estatus | Media |
+
+**Lectura:** ningún candidato de Recliner combina Asociación alta y Originalidad alta a la vez — es el mismo trade-off que señaló Antonela. Si el criterio de asociación pesa más (dado que el público general no conoce el término "recliner 4D"), **Recline** queda como la opción más segura aunque menos distintiva. Si se prioriza diferenciación de marca, **Axis** es la más fuerte, asumiendo que la claridad se resuelve en la comunicación comercial (ver justificación de la ronda anterior).
 
 ---
 
-## Justificación — "recliner"/"recline" en el nombre: sí o no
+## Arquitectura de nombres — tres capas (concepto nuevo, propuesto por Antonela)
 
-Tarea pedida explícitamente por Antonela: no solo proponer nombres, sino dejar por escrito el análisis para que los socios de Lumma decidan.
+En la reunión del 18/9 Antonela planteó una vía adicional a la distinción nombre técnico/nombre de marca que ya teníamos:
 
-**A favor de conservarlo (Camino A):**
-- Cero curva de aprendizaje para el exhibidor — en una tabla de precios o propuesta comercial, la claridad pesa más que la originalidad.
-- Es el término que ya usa toda la industria como descriptor (Inorca, Irwin, D-BOX) — no hay que "enseñarle" al mercado qué es.
-- La propia Antonela reconoció en la reunión que es difícil transmitir la función sin usar la palabra.
+1. **Nombre "marketinero"** — evocador, para la sala/experiencia (ej. Aurea).
+2. **Nombre de venta comercial** — descriptivo, claro, para propuestas y tablas de precio (ej. "es una butaca soft").
+3. **Combinaciones tipo serie/edición** — un nombre base + un calificador comercial.
 
-**A favor de evitarlo (Camino B):**
-- "Recliner" es un término descriptivo genérico del rubro — una marca construida sobre una palabra puramente descriptiva es, en general, más débil para registrar y defender legalmente que un nombre propio.
-- Mejor arquitectura a futuro: si Lumma lanza otro formato reclinable con otra tecnología más adelante, un nombre propio no queda atado a ese mecanismo específico.
-- Es más consistente con la lógica de marca que Lumma ya usa: "Magnify 8", "Core" y el propio "4D E-Motion" son nombres propios, no descriptores literales de función.
+**Brainstorming de Antonela (sin resolver, mencionado en la reunión, pendiente de recibir por mail):**
+Ford Motion Recliner Series · E Series · Recline Pro · Ford Motion Soft Lux Edition · Prime Soft · Lux Recline
 
-**Recomendación de DOOH:** ir por el **Camino B** (nombre propio, sin "recline" literal), con una condición — el nombre elegido debe evocar el mecanismo sin necesitar explicación (como "Pivot" o "Axis", que sugieren movimiento/ajuste sin decir "reclinar"). La claridad hacia el exhibidor no depende solo del nombre de marca: ya hoy "4D E-Motion" no explica literalmente "vibración + movimiento + efectos" y sin embargo funciona, porque la claridad se resuelve en la ficha técnica y la comunicación comercial, no en el nombre. La decisión final queda para los socios.
+⚠️ Estos combos son un brainstorming inicial de Antonela, todavía no llegaron formalmente por mail (los prometió en la cadena existente). No se descarta ni se adopta ninguno hasta tenerlos por escrito — quedan anotados acá para no perderlos.
+
+**Riesgo señalado por Antonela sobre estas combinaciones:** usar la raíz "Lux"/"Luxury" en algo relacionado a Recliner (ej. "Lux Recline") puede pisar la jerarquía con la línea Luxury — si Luxury ya es "el Lux", cualquier eco de esa raíz en Recliner genera confusión sobre cuál es cuál. Refuerza la regla ya existente: **los nombres de Luxury y Recliner no deben compartir raíz o campo semántico**, y ahora también tienen que "convivir" bien como pareja (si uno es muy literal, el otro no puede ser demasiado abstracto, y viceversa — ejemplo dado: Aurea + Recliner no funcionan bien juntos por el contraste de registro).
+
+---
+
+## "Soft" — matiz nuevo
+
+Confirmado: "Soft" sigue vetado como nombre de marca individual al consumidor. **Novedad:** combinado con un calificador (**"Prime Soft"**, **"Soft X"**) sí podría funcionar como descriptor comercial. El riesgo real que señaló Florencia Yacante no es la palabra en sí, sino que el equipo de ventas se acostumbre a decir "soft" por costumbre interna y eso se filtre hacia afuera sin querer — por eso urge tener un nombre de venta comercial claro y no dejarlo implícito.
+
+---
+
+## Resolución — asignación de "Prime" (de la ronda anterior, sigue vigente)
+
+Se mantiene: **"Prime" queda asignado a Recliner**, no a Luxury.
+
+---
+
+## Justificación — "recliner"/"recline" en el nombre: sí o no (de la ronda anterior, sigue vigente)
+
+Ver desarrollo completo en el entregable ya enviado. Resumen: DOOH recomendó el Camino B (nombre propio, sin "recline" literal), con la condición de que el nombre evoque el mecanismo sin necesitar explicación. La reunión del 18/9 confirma que este sigue siendo el punto más difícil de resolver — ni Axis ni Flex lo logran del todo según la propia Lumma, lo cual valida que la tensión identificada era real y no una sobreestimación nuestra.
 
 ---
 
 ## Pendiente
 
-1. Chequeo de disponibilidad preliminar (dominio/uso previo) de los finalistas — no reemplaza estudio marcario formal.
-2. Investigar características generales de "recliner on riser" para cine (referencia Inorca) para tener vocabulario técnico de respaldo.
-3. Confirmar con Antonela el nombre exacto del competidor "ADX"/"Ultra" mencionado en la reunión del 2/sept.
+1. **Urgente:** generar 4–6 candidatos nuevos para Luxury (eje Sensación/Material, evitando el registro infantil/lúdico) antes de la reunión del viernes.
+2. Completar la tabla de criterios con más candidatos si Antonela y Florencia Yacante aportan los suyos, y consolidar en una sola.
+3. Esperar el mail de Antonela con los nombres de combinación comercial (Ford Motion Recliner Series, etc.) para evaluarlos formalmente.
+4. Confirmar fecha y horario de la reunión del viernes 25/9.
+5. Chequeo de disponibilidad preliminar (dominio/uso previo) de los finalistas — no reemplaza estudio marcario formal.
+6. Investigar características generales de "recliner on riser" para cine (referencia Inorca).
+7. Confirmar con Antonela el nombre exacto del competidor "ADX"/"Ultra" mencionado en la reunión del 2/sept (sigue sin confirmar).

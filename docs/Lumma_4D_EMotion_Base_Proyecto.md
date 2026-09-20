@@ -81,6 +81,8 @@ Florencia Yacante (Lumma) respondió por mail las consultas de DOOH sobre cómo 
 | 12/ago | Florencia Yacante (Head of Design, Lumma) responde punto por punto — corrige la lectura sobre Magnify 8 y confirma varias combinaciones (detalle en sección 2.1 y en [Mapa_Estructura_Productos_Lumma.md](Mapa_Estructura_Productos_Lumma.md)) |
 | 17/ago | Se envía a Antonela el entregable "Contexto y Territorio de Naming" (HTML) — primer entregable formal de la etapa |
 | 2/sept | Reunión con Antonela Salvador y Florencia Yacante — feedback sobre el entregable, aclara partners vs. competidores, restricciones de naming y próximos pasos (detalle en sección 9) |
+| 11/sept | Se envía a Antonela el segundo entregable ("Ajustes y Primera Tanda de Nombres", HTML) |
+| 18/sept | Reunión con Antonela Salvador y Florencia Yacante — devolución sobre el segundo entregable: descartes de nombres, colisión con "lateral tilt", arquitectura de tres capas, pide tabla de criterios (detalle en sección 10) |
 
 ### Reunión de reactivación (20/jul)
 - Cliente histórico con confianza previa fuerte — remarcado por Antonela como activo a favor.
@@ -295,7 +297,11 @@ Antonela respondió a la propuesta de Fase 1 (alcance + presupuesto completo) in
 10. ✅ **Resuelto (2/sept):** distinción partners vs. competidores aclarada por Antonela en reunión — ver sección 9 y `Research_Competidores_Naming_v2.md`.
 11. Evaluar y justificar por escrito si "recliner"/"recline" queda en el nombre de marca de Recliner — pedido explícito de Antonela para presentar a los "socios" (ver sección 9).
 12. Confirmar con Antonela el nombre exacto del competidor mencionado como "ADX"/"Ultra" en la reunión del 2/sept — se infiere 4DX/CJ 4DPLEX con alta probabilidad, no confirmado por escrito.
-13. Avanzar con la ronda de generación de nombres y presentar propuestas a los socios de Lumma la semana del 7–11/sept (acordado en la reunión del 2/sept).
+13. ✅ **Resuelto:** ronda de generación de nombres presentada el 11/sept (segundo entregable) y revisada en la reunión del 18/sept — ver sección 10.
+14. **Urgente:** generar candidatos nuevos para Luxury — la lista quedó con solo 2 sobrevivientes tras los descartes del 18/9 (ver `Ronda_Nombres_Luxury_Recliner.md`).
+15. Armar la tabla de criterios (Originalidad × Asociación) para llevar a la reunión del viernes 25/sept, en paralelo con la que preparan Antonela y Florencia Yacante.
+16. Esperar el mail de Antonela con los nombres de combinación comercial mencionados en la reunión del 18/9 (Ford Motion Recliner Series, etc.).
+17. Confirmar fecha y horario exacto de la reunión del viernes 25/sept.
 
 ---
 
@@ -315,3 +321,19 @@ Reunión de feedback sobre el entregable "Contexto y Territorio de Naming" envia
 - **Tensión "original vs. reconocible":** Antonela quiere un nombre original pero reconocible, sobre todo para Recliner. Pide que la ronda de generación evalúe y justifique por escrito si "recliner"/"recline" queda como parte del nombre.
 - **Aparece la figura de "socios"** — la decisión final del nombre no es solo de Antonela, se valida con socios de Lumma.
 - **Próximo paso acordado:** DOOH arma propuestas de nombre para ambos productos (usando los tres ejes: sensación, estatus, material) y las presenta la semana siguiente (martes o miércoles).
+
+---
+
+## 10. Reunión con Antonela Salvador y Florencia Yacante (18/sept)
+
+Devolución de Lumma sobre el segundo entregable ("Ajustes y Primera Tanda de Nombres", enviado el 11/sept). Participantes: Antonela Salvador, Florencia Yacante (Lumma), Florencia Alvarez y Fernanda Barreiro (DOOH). Transcripción automática con errores reconocidos por la herramienta — ver notas de lectura en [`fuentes/Reunion_18sept2026_transcripcion.md`](fuentes/Reunion_18sept2026_transcripcion.md).
+
+**Puntos clave:**
+- **Descartes confirmados:** Velvet (sugiere terciopelo real, que no es el material), Regal (nombre de un exhibidor real de EE.UU., confirma la precaución ya marcada por DOOH), Cloud y Plush (suenan infantiles/lúdicos en vez de premium), Kline (asociación fonética "inevitable" con Calvin Klein, confirma lo ya flageado), Pivot y Tilt (colisionan con "lateral tilt", nombre técnico ya usado para el efecto de movimiento lateral del sistema).
+- **Aurea, en duda seria sin descarte formal:** ambas de Lumma coinciden en que es demasiado abstracto/poético — se lee como nombre de formato/marca, no de línea de producto, y el espectador promedio no lo asocia a la característica diferencial.
+- **Axis vs. Flex para Recliner, sin resolver:** desacuerdo interno en Lumma — Antonela asocia Flex al Soft/Luxury, Florencia Yacante lo asocia al Recliner. Ninguna siente que Axis o Flex evoquen "recliner" con claridad. Se difiere a una tabla de criterios.
+- **Criterio de evaluación pedido por Antonela:** tabla que cruce **Originalidad** vs. **Asociación para el espectador promedio** — un nombre lindo no alcanza si el público general no lo entiende sin explicación.
+- **Arquitectura de tres capas, propuesta nueva de Antonela:** nombre "marketinero" (evocador, para la sala) + nombre de venta comercial (descriptivo, para propuestas comerciales) + combinaciones tipo serie/edición. Brainstorming suyo sin resolver: Ford Motion Recliner Series, E Series, Recline Pro, Ford Motion Soft Lux Edition, Prime Soft, Lux Recline — pendientes de recibir formalmente por mail.
+- **Riesgo de jerarquía semántica:** usar la raíz "Lux"/"Luxury" en algo de Recliner puede pisar la línea Luxury — refuerza que los nombres de los dos modelos no compartan campo semántico, y que "convivan" bien como pareja (si uno es muy literal, el otro no puede ser demasiado abstracto).
+- **"Soft" combinado, matiz nuevo:** "Prime Soft" o "Soft X" podrían funcionar como descriptor comercial, aunque "Soft" solo sigue vetado como nombre de marca al consumidor.
+- **Próximo paso acordado:** Antonela y Florencia Yacante arman su propia tabla de criterios; Antonela manda por mail los nombres de combinación comercial; se agenda reunión para el viernes siguiente (25/9, a confirmar). DOOH necesita generar candidatos nuevos para Luxury antes de esa reunión, dado que la lista quedó muy corta (detalle completo en [Ronda_Nombres_Luxury_Recliner.md](Ronda_Nombres_Luxury_Recliner.md)).

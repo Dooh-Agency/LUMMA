@@ -20,3 +20,4 @@ Transcripciones y mails **fuente primaria** del cliente (Lumma), volcados a text
 | `Mail_Antonela_22jul2026.md` | Mail "DOOH & LUMMA" — brief informal + arquitectura de productos + primeros candidatos de naming |
 | `Mail_FlorenciaYacante_12ago2026.md` | Respuesta punto por punto de Florencia Yacante sobre Magnify 8 y el sufijo "+" |
 | `Reunion_2sept2026_transcripcion.md` | Reunión con Antonela y Florencia Yacante — feedback del entregable, partners vs. competidores, restricciones de naming |
+| `Reunion_18sept2026_transcripcion.md` | Devolución de Lumma sobre el segundo entregable — descartes de nombres, colisión con "lateral tilt", arquitectura de tres capas, tabla de criterios pedida |
