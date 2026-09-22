@@ -1,7 +1,7 @@
 # Lumma / 4D E-Motion — Ronda de generación de nombres (Luxury + Recliner)
-## Fecha: 10/sept/2026 · Curada 11/sept · Actualizada 20/sept tras devolución de Lumma (reunión 18/sept)
+## Fecha: 10/sept/2026 · Curada 11/sept · Actualizada 20/sept tras devolución de Lumma (reunión 18/9) · Ronda 3: 22/sept (generación interna DOOH, aún no compartida con Lumma)
 
-✅ **Estado: ronda 2, post-devolución del cliente.** Se incorporan los descartes y observaciones de la reunión del 18/9 ([`fuentes/Reunion_18sept2026_transcripcion.md`](fuentes/Reunion_18sept2026_transcripcion.md)). ⚠️ **La lista de Luxury quedó muy corta (2 candidatos) — hace falta una ronda de generación nueva antes del viernes.**
+✅ **Estado: ronda 3, generación interna.** Se incorporan los descartes y observaciones de la reunión del 18/9 ([`fuentes/Reunion_18sept2026_transcripcion.md`](fuentes/Reunion_18sept2026_transcripcion.md)) y una tanda nueva de candidatos para ambas líneas (Luxury y Recliner), trabajada en paralelo para que las dos convivan con el mismo registro. **Todavía no se compartió con Lumma — falta curar antes de la reunión del viernes 25/9 (a confirmar).**
 
 Trabajo sobre la base ya corregida: [`Territorio_Naming_Punto1_v2.md`](Territorio_Naming_Punto1_v2.md), [`Research_Competidores_Naming_v2.md`](Research_Competidores_Naming_v2.md), [`Mapa_Estructura_Productos_Lumma_v2.md`](Mapa_Estructura_Productos_Lumma_v2.md).
 
@@ -13,31 +13,47 @@ Trabajo sobre la base ya corregida: [`Territorio_Naming_Punto1_v2.md`](Territori
 - **Luxury** → campo sensorial/material, evitando que la palabra suene infantil/lúdica (aprendizaje nuevo de esta ronda, ver abajo).
 - **Recliner** → campo función/mecanismo/postura. Nunca relajación.
 - **Excluido de plano:** "Riser", relajación/tranquilidad/"Zen", "Ultra" (competidor 4DX), "Soft" como nombre de marca al consumidor (sí válido combinado, ver sección de arquitectura).
-- **🆕 Excluido:** cualquier término que colisione con **"lateral tilt"**, el nombre ya usado internamente para el efecto de movimiento lateral del sistema.
+- **Excluido:** cualquier término que colisione con **"lateral tilt"**, el nombre ya usado internamente para el efecto de movimiento lateral del sistema.
+- **🆕 Excluido (ronda 3):** cualquier término que coincida con el título de una película conocida (ej. **Cocoon**, 1985 — descartado por esto, ver más abajo; también aplica a **Dune**). Mismo tipo de problema que Velvet: no es un tema de idioma, es un tema de asociación no deseada que el chequeo lingüístico original no estaba diseñado para cazar.
+- **🆕 Con precaución (ronda 3):** términos que comparten campo semántico con un material ya descartado (ej. **Drape** con Velvet — ambos remiten a tela). No se excluyen de plano, pero se marcan "con reserva" salvo que se separen claramente del registro textil.
 - **Reabierto, sigue vigente:** "Prime" — ya no descartado por colisión de competidor, sujeto igual al chequeo de disponibilidad formal.
 
 ---
 
-## Luxury — shortlist tras la devolución (2 sobrevivientes de 7)
-
-⚠️ **Esta lista quedó demasiado corta para presentar.** Lumma descartó 4 de los 7 candidatos en la reunión del 18/9, y "Prime" ya se había reasignado a Recliner en la curación anterior. Hace falta generar candidatos nuevos en el eje Sensación/Material antes de la próxima reunión — ver la nota de aprendizaje más abajo.
+## Luxury — shortlist actualizada (ronda 3)
 
 | Nombre | Eje | Estado | Por qué |
 |---|---|---|---|
 | **Noble** | Estatus | ✅ En pie | Sin objeciones en la reunión del 18/9 |
 | **Aurea** | Material | ⚠️ En duda seria | Lumma no lo descartó formalmente, pero ambas plantearon una objeción fuerte: se lee como nombre de *formato/marca* (compite en escala con "4D E-Motion"), no como línea de producto. Falla el criterio de "asociación para el espectador promedio" — no queda claro por qué esa butaca es diferente solo con el nombre. Cumple originalidad, no cumple asociación (ver tabla de criterios) |
+| **Haven** | Sensación | ✅ En pie (nuevo) | Refugio/espacio exclusivo y cómodo, registro adulto, sin afirmar un material. Riesgo menor: pide una traducción mental leve para el público hispanohablante |
+| **Deep** | Sensación | ✅ En pie (nuevo) | De "deep seating", término real de mobiliario premium para asientos mullidos/profundos. Palabra simple, originalidad media |
+| **Enclave** | Estatus/Sensación | ✅ En pie (nuevo) | Espacio exclusivo, cruza estatus y confort. Registro algo más frío/corporativo que sensorial |
+| **Nest** | Sensación | ⚠️ Con reserva (nuevo) | Acogedor, natural, no infantil en sí — pero puede leerse demasiado doméstico/tierno para una sala de cine premium |
+| **Hush** | Sensación | ⚠️ Con reserva (nuevo) | Evoca quietud premium — riesgo de leerse como función (aislación acústica de la sala) y no como sensación (confort) |
+| **Cove** | Sensación | ⚠️ Con reserva (nuevo) | Refugio íntimo, registro premium-hotelero — puede sonar demasiado relajado/tranquilo para el eje que busca Lumma, aunque la relajación no está prohibida en Luxury como sí en Recliner |
+| **Ease** | Sensación | ⚠️ Con reserva (nuevo) | Directo, sin esfuerzo — pero genérico, originalidad baja |
+| **Drape** | Material | ⚠️ Con reserva (nuevo) | Describe cómo cae la tela (con pliegues, no tirante) — es literalmente el diferencial real de Luxury, sin afirmar un material equivocado como Velvet. Pero comparte campo semántico con Velvet (tela) — evaluar si se lee lo bastante distinto |
+| **Morbido / Doux / Piuma** *(IT/FR)* | Material | ⚠️ Baja confianza (exploración) | "Suave"/"pluma" en otros idiomas — registro premium-exótico, pero la asociación cae mucho para el público LatAm/ES que no lee italiano o francés. Anotados solo por si quieren explorar esa dirección |
 
-**Descartados en la reunión del 18/9:**
+**Descartados en la reunión del 18/9 (con Lumma):**
 - ~~**Velvet**~~ — sugiere que la butaca es literalmente de terciopelo/gamuza, y no lo es. *(Motivo nuevo: no lo habíamos detectado en el chequeo lingüístico — era un problema de precisión material, no de idioma.)*
 - ~~**Regal**~~ — coincide con el nombre de un exhibidor real de EE.UU. (Regal Cinemas); confirma la precaución que ya habíamos marcado nosotros mismos.
 - ~~**Cloud**~~ — suena demasiado lúdico/infantil ("juego", no "diversión").
 - ~~**Plush**~~ — mismo motivo que Cloud: infantiliza en vez de evocar confort premium.
 
-**Aprendizaje para la próxima ronda de generación:** el patrón de descarte de Velvet/Cloud/Plush es consistente — palabras sensoriales "blandas" (que evocan mullido/suave) tienden a leerse como infantiles/lúdicas si no se anclan a algo más adulto o técnico. Hay que buscar en el eje Sensación/Material sin caer en ese registro (ej. materiales, texturas o términos con peso "adulto"/premium, no términos de juguete o de confort genérico).
+**Descartado en curación interna DOOH (ronda 3, antes de llegar a Lumma):**
+- ~~**Cocoon**~~ — coincide con el título de la película de 1985 (ancianos rejuvenecidos por extraterrestres). Mismo tipo de riesgo que Velvet: una asociación no deseada que el chequeo lingüístico original no cazaba. Motivó el nuevo filtro de exclusión por colisión con títulos de películas (ver "Filtros aplicados").
+
+**Aprendizaje de la ronda 2 (sigue vigente):** el patrón de descarte de Velvet/Cloud/Plush es consistente — palabras sensoriales "blandas" (que evocan mullido/suave) tienden a leerse como infantiles/lúdicas si no se anclan a algo más adulto o técnico. Hay que buscar en el eje Sensación/Material sin caer en ese registro.
+
+**Aprendizaje nuevo (ronda 3):** dos filtros que se sumaron al chequeo estándar por casos concretos de esta ronda — colisión con títulos de películas (Cocoon) y colisión de campo semántico con un descarte previo aunque la palabra en sí sea distinta (Drape/Velvet). Ninguno de los dos es un chequeo lingüístico tradicional (idioma/pronunciación); son chequeos de asociación cultural y de coherencia entre rondas.
 
 ---
 
-## Recliner — shortlist tras la devolución (5 candidatos, con debate abierto)
+## Recliner — shortlist actualizada (ronda 3)
+
+⚠️ Lumma fue clara en la reunión del 18/9: ni Axis ni Flex les cierra del todo (Antonela prefiere Axis, Florencia Yacante prefiere Flex, y ninguna de las dos lo asocia con "recliner" sin explicación). Pidieron explorar alternativas — esta ronda va en esa línea.
 
 ### Camino A — conserva la raíz "recline"
 
@@ -51,9 +67,17 @@ Trabajo sobre la base ya corregida: [`Territorio_Naming_Punto1_v2.md`](Territori
 | Nombre | Estado | Por qué |
 |---|---|---|
 | **One** | ✅ En pie | Sin objeciones nuevas |
-| **Axis** | ⚠️ En debate | Antonela lo prefiere; Florencia Yacante también lo señaló con buena impresión inicial. Ninguna de las dos siente que evoque "recliner" con claridad por sí solo |
+| **Axis** | ⚠️ En debate (Lumma) | Antonela lo prefiere; ninguna de las dos siente que evoque "recliner" con claridad por sí solo |
 | **Flex** | ⚠️ En debate, con desacuerdo interno en Lumma | Florencia Yacante lo asocia al Recliner (mecanismo, "se quiebra/dobla"); Antonela lo asocia al Soft/Luxury (confort, flexibilidad). Riesgo: si termina yendo para Luxury, colisiona con la asignación de Recliner |
 | **Prime** | ✅ En pie (reasignado desde Luxury) | Ver resolución de la ronda anterior |
+| **Lean** | ✅ En pie (nuevo) | Describe literalmente el movimiento de reclinarse — muy alta asociación, originalidad media |
+| **Glide** | ✅ En pie (nuevo) | "Glider recliner" es una categoría real de mobiliario — movimiento suave, registro premium |
+| **Shift** | ✅ En pie (nuevo) | Cambio de postura, directo y neutro — riesgo de sonar algo genérico |
+| **Arc** | ✅ En pie (nuevo) | Trayectoria curva del respaldo al reclinarse — geométrico como Axis pero más visual/concreto |
+| **Curve** | ⚠️ Con reserva (nuevo) | Mismo campo semántico que Arc (la curva del respaldo) — elegir uno de los dos, no ambos |
+| **Poise** | ⚠️ Con reserva (nuevo) | Postura equilibrada/elegante, conecta con la posición reclinada sin decirlo literal — palabra menos común, chequear pronunciación en español |
+| **Sway** | ⚠️ Con reserva (nuevo) | Conecta positivamente con el sistema de movimiento lateral — riesgo de asociarse a inestabilidad/mareo |
+| **Pitch** | ⚠️ Con reserva (nuevo) | Término técnico real (aviación/náutica) para el ángulo de inclinación — tiene significados alternativos fuertes (pitch de venta, tono musical) que pueden confundir |
 | ~~**Pivot**~~ | ❌ Descartado | Colisiona con "lateral tilt" |
 | ~~**Tilt**~~ | ❌ Descartado | Colisiona directamente con "lateral tilt", el nombre técnico ya en uso |
 
@@ -67,13 +91,29 @@ Pedida explícitamente por Antonela en la reunión del 18/9: *"si hacemos una ta
 |---|---|---|---|
 | Noble | Luxury | Media — remite a "categoría/calidad", no a mullido específicamente | Media-baja — palabra de diccionario, poco distintiva |
 | Aurea | Luxury | Baja — confirmado en la reunión, se lee como marca/formato | Alta — muy distintivo, pero quizás demasiado |
+| Haven | Luxury | Media — "refugio cómodo" se entiende, pero pide una pequeña traducción mental | Media-alta |
+| Deep | Luxury | Media-alta — "profundo/mullido" es bastante intuitivo | Media — término real de mobiliario, pero palabra simple |
 | Recline | Recliner | Alta — literal | Baja — "lo obvio", poco diferencial de marca |
 | One | Recliner | Media — se entiende "individual", no "reclinable" | Media |
 | Axis | Recliner | Baja — ninguna de las dos partes lo asocia a recliner | Alta |
 | Flex | Recliner | Baja-media — asociación dividida incluso dentro de Lumma | Media — slang instalado, compite en tono con la marca |
 | Prime | Recliner | Baja — no evoca "reclinable", es puramente de estatus | Media |
+| Lean | Recliner | Alta — describe el movimiento literalmente | Media |
+| Glide | Recliner | Media-alta — "desliza suave" se entiende con poco esfuerzo | Media-alta |
+| Arc | Recliner | Media — geométrico, pero visualiza el movimiento | Media-alta |
 
-**Lectura:** ningún candidato de Recliner combina Asociación alta y Originalidad alta a la vez — es el mismo trade-off que señaló Antonela. Si el criterio de asociación pesa más (dado que el público general no conoce el término "recliner 4D"), **Recline** queda como la opción más segura aunque menos distintiva. Si se prioriza diferenciación de marca, **Axis** es la más fuerte, asumiendo que la claridad se resuelve en la comunicación comercial (ver justificación de la ronda anterior).
+**Lectura:** los candidatos nuevos de la ronda 3 (Lean, Glide, Deep) buscan específicamente ocupar el punto medio que faltaba entre "literal y genérico" (Recline) y "distintivo pero poco asociable" (Axis/Aurea) — todavía sin validar con Lumma. Si el criterio de asociación pesa más, **Recline** y **Lean** quedan como las opciones más seguras. Si se prioriza diferenciación de marca, **Axis** sigue siendo la más fuerte, asumiendo que la claridad se resuelve en la comunicación comercial (ver justificación de la ronda anterior).
+
+---
+
+## Convivencia entre líneas — parejas sugeridas (ronda 3)
+
+Retomando la regla de Florencia Yacante (18/9): los nombres de Luxury y Recliner no solo tienen que funcionar solos, tienen que "convivir" — si uno es muy literal, el otro no puede irse demasiado abstracto, y viceversa. Con los candidatos nuevos, dos combinaciones quedan mejor emparejadas en registro (ambas cortas, físicas/sensoriales, sin caer en la literalidad total ni en la abstracción pura):
+
+- **Deep (Luxury) + Lean (Recliner)** — misma familia de registro: palabras simples, monosilábicas, que describen una sensación/movimiento físico concreto sin ser "lo obvio" (Velvet/Recline) ni demasiado abstractas (Aurea/Axis).
+- **Haven (Luxury) + Arc (Recliner)** — más distancia entre sí (uno emocional/refugio, otro geométrico/movimiento), pero ambas legibles sin explicación y sin compartir campo semántico.
+
+Ninguna combinación está resuelta ni presentada a Lumma — quedan como punto de partida para la curación final antes de la reunión del viernes.
 
 ---
 
@@ -114,8 +154,8 @@ Ver desarrollo completo en el entregable ya enviado. Resumen: DOOH recomendó el
 
 ## Pendiente
 
-1. **Urgente:** generar 4–6 candidatos nuevos para Luxury (eje Sensación/Material, evitando el registro infantil/lúdico) antes de la reunión del viernes.
-2. Completar la tabla de criterios con más candidatos si Antonela y Florencia Yacante aportan los suyos, y consolidar en una sola.
+1. **Curar la ronda 3** (Luxury: Haven, Deep, Enclave, Nest, Hush, Cove, Ease, Drape · Recliner: Lean, Glide, Shift, Arc, Curve, Poise, Sway, Pitch) a una lista corta antes de armar el próximo material para Lumma — hoy son candidatos internos de DOOH, sin curar ni compartir todavía.
+2. Completar la tabla de criterios con los candidatos nuevos que falten, y con lo que aporten Antonela y Florencia Yacante, consolidando en una sola tabla.
 3. Esperar el mail de Antonela con los nombres de combinación comercial (Ford Motion Recliner Series, etc.) para evaluarlos formalmente.
 4. Confirmar fecha y horario de la reunión del viernes 25/9.
 5. Chequeo de disponibilidad preliminar (dominio/uso previo) de los finalistas — no reemplaza estudio marcario formal.
