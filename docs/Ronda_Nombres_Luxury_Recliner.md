@@ -1,7 +1,7 @@
 # Lumma / 4D E-Motion — Ronda de generación de nombres (Luxury + Recliner)
 ## Fecha: 10/sept/2026 · Curada 11/sept · Actualizada 20/sept tras devolución de Lumma (reunión 18/9) · Ronda 3: 22/sept (generación interna DOOH, aún no compartida con Lumma)
 
-✅ **Estado: ronda 3, generación interna.** Se incorporan los descartes y observaciones de la reunión del 18/9 ([`fuentes/Reunion_18sept2026_transcripcion.md`](fuentes/Reunion_18sept2026_transcripcion.md)) y una tanda nueva de candidatos para ambas líneas (Luxury y Recliner), trabajada en paralelo para que las dos convivan con el mismo registro. **Todavía no se compartió con Lumma — falta curar antes de la reunión del viernes 25/9 (a confirmar).**
+✅ **Estado: ronda 3, generación interna.** Se incorporan los descartes y observaciones de la reunión del 18/9 ([`fuentes/Reunion_18sept2026_transcripcion.md`](fuentes/Reunion_18sept2026_transcripcion.md)) y una tanda nueva de candidatos para ambas líneas (Luxury y Recliner), trabajada en paralelo para que las dos convivan con el mismo registro. **Todavía no se compartió con Lumma — falta curar antes de la próxima reunión (el viernes 25/9 quedó atrás sin confirmarse, hay que acordar fecha nueva).**
 
 Trabajo sobre la base ya corregida: [`Territorio_Naming_Punto1_v2.md`](Territorio_Naming_Punto1_v2.md), [`Research_Competidores_Naming_v2.md`](Research_Competidores_Naming_v2.md), [`Mapa_Estructura_Productos_Lumma_v2.md`](Mapa_Estructura_Productos_Lumma_v2.md).
 
@@ -135,10 +135,24 @@ En la reunión del 18/9 Antonela planteó una vía adicional a la distinción no
 2. **Nombre de venta comercial** — descriptivo, claro, para propuestas y tablas de precio (ej. "es una butaca soft").
 3. **Combinaciones tipo serie/edición** — un nombre base + un calificador comercial.
 
-**Brainstorming de Antonela (sin resolver, mencionado en la reunión, pendiente de recibir por mail):**
-Ford Motion Recliner Series · E Series · Recline Pro · Ford Motion Soft Lux Edition · Prime Soft · Lux Recline
+**✅ Confirmado por escrito** en [`fuentes/Mail_Antonela_18sept2026.md`](fuentes/Mail_Antonela_18sept2026.md), enviado por Antonela apenas terminó la reunión del 18/9 (llegó a nuestra bandeja pero quedó traspapelado; recién lo retomamos el 26/9).
 
-⚠️ Estos combos son un brainstorming inicial de Antonela, todavía no llegaron formalmente por mail (los prometió en la cadena existente). No se descarta ni se adopta ninguno hasta tenerlos por escrito — quedan anotados acá para no perderlos.
+**Recliner — combinaciones tono catálogo corporativo:**
+4D E-Motion R-Series · Recline Pro · 4D E-Motion Recline-Series · 4D E-Motion Recliner-Series
+
+⚠️ **Corrección de fuente:** la transcripción automática de la reunión había registrado "E Series"; el mail aclara que en realidad es **"R-Series"** (4D E-Motion R-Series). Se corrige acá siguiendo la regla de que la fuente escrita prima sobre la transcripción automática. "Ford Motion Recliner Series" (como se había anotado desde la transcripción) queda confirmado y formalizado como **4D E-Motion Recliner-Series**.
+
+**Luxury — combinaciones tono catálogo corporativo:**
+Soft Seat Series
+
+**Luxury — combos con calificador "soft":**
+Prime-Soft (coincide con lo ya anotado como "Prime Soft") · SoftLuxe (nuevo, no estaba en la transcripción)
+
+**Confirmación adicional del mail:** Regal queda excluido del camino de "estatus" en Luxury por ser un exhibidor real — coincide exactamente con lo que ya teníamos documentado desde la reunión del 18/9, sin novedad, pero es una buena señal de consistencia entre lo hablado y lo escrito.
+
+**Nota:** el mail no menciona "Ford Motion Soft Lux Edition" ni "Lux Recline" (sí anotados desde la transcripción del 18/9). No se los descarta formalmente — pueden haber quedado afuera de una lista no exhaustiva — pero no están confirmados por escrito, así que se mantienen marcados como pendientes de esa transcripción, no como definidos.
+
+**Sigue sin resolver:** el mail organiza Recliner en "camino de AXIS" y "camino de FLEX" como dos títulos, sin agregar comentario nuevo sobre cuál preferir — la definición entre ambos sigue pendiente para la reunión.
 
 **Riesgo señalado por Antonela sobre estas combinaciones:** usar la raíz "Lux"/"Luxury" en algo relacionado a Recliner (ej. "Lux Recline") puede pisar la jerarquía con la línea Luxury — si Luxury ya es "el Lux", cualquier eco de esa raíz en Recliner genera confusión sobre cuál es cuál. Refuerza la regla ya existente: **los nombres de Luxury y Recliner no deben compartir raíz o campo semántico**, y ahora también tienen que "convivir" bien como pareja (si uno es muy literal, el otro no puede ser demasiado abstracto, y viceversa — ejemplo dado: Aurea + Recliner no funcionan bien juntos por el contraste de registro).
 
@@ -166,8 +180,8 @@ Ver desarrollo completo en el entregable ya enviado. Resumen: DOOH recomendó el
 
 1. **Curar la ronda 3** (Luxury: Deep, Den, Snug, Nest, Hush, Cove, Ease, Drape · Recliner: Lean, Shift, Arc, Angle, Bow, Rock, Yield, Curve, Poise, Sway, Pitch) a una lista corta antes de armar el próximo material para Lumma — hoy son candidatos internos de DOOH, sin curar ni compartir todavía.
 2. Completar la tabla de criterios con los candidatos nuevos que falten, y con lo que aporten Antonela y Florencia Yacante, consolidando en una sola tabla.
-3. Esperar el mail de Antonela con los nombres de combinación comercial (Ford Motion Recliner Series, etc.) para evaluarlos formalmente.
-4. Confirmar fecha y horario de la reunión del viernes 25/9.
+3. Evaluar formalmente las combinaciones comerciales/de catálogo ya confirmadas por mail (Recliner: 4D E-Motion R-Series, Recline Pro, 4D E-Motion Recline-Series, 4D E-Motion Recliner-Series · Luxury: Soft Seat Series, Prime-Soft, SoftLuxe) junto con el resto de las opciones.
+4. Confirmar nueva fecha y horario de reunión (el viernes 25/9 quedó atrás sin confirmarse).
 5. Chequeo de disponibilidad preliminar (dominio/uso previo) de los finalistas — no reemplaza estudio marcario formal.
 6. Investigar características generales de "recliner on riser" para cine (referencia Inorca).
 7. Confirmar con Antonela el nombre exacto del competidor "ADX"/"Ultra" mencionado en la reunión del 2/sept (sigue sin confirmar).
