@@ -76,7 +76,6 @@ Trabajo sobre la base ya corregida: [`Territorio_Naming_Punto1_v2.md`](Territori
 | **Arc** | ✅ En pie (nuevo) | Trayectoria curva del respaldo al reclinarse — geométrico como Axis pero más visual/concreto |
 | **Angle** | ✅ En pie (nuevo, ronda 3b) | El ángulo de reclinación, directo y concreto |
 | **Bow** | ⚠️ Con reserva (nuevo, ronda 3b) | Evoca el movimiento de doblarse/inclinarse hacia atrás con elegancia — palabra corta, pero tiene varios significados alternativos (lazo, arco, proa) a validar |
-| **Rock** | ⚠️ Con reserva (nuevo, ronda 3b) | "Rocker recliner" es una categoría real de mobiliario (butacas que reclinan y hamacan) — fuerte significado alternativo (música, piedra), riesgo medio de confusión |
 | **Yield** | ⚠️ Con reserva (nuevo, ronda 3b) | Describe el mecanismo cediendo/ajustándose al cuerpo, registro más sofisticado — menos intuitivo a primera lectura, pide más contexto que el resto |
 | **Curve** | ⚠️ Con reserva (nuevo) | Mismo campo semántico que Arc (la curva del respaldo) — elegir uno de los dos, no ambos |
 | **Poise** | ⚠️ Con reserva (nuevo) | Postura equilibrada/elegante, conecta con la posición reclinada sin decirlo literal — palabra menos común, chequear pronunciación en español |
@@ -106,7 +105,6 @@ Pedida explícitamente por Antonela en la reunión del 18/9: *"si hacemos una ta
 | Lean | Recliner | Alta — describe el movimiento literalmente | Media |
 | Arc | Recliner | Media — geométrico, pero visualiza el movimiento | Media-alta |
 | Angle | Recliner | Alta — describe el ángulo de reclinación de forma directa | Media-baja — palabra simple, poco distintiva |
-| Rock | Recliner | Media-alta — "rocker recliner" es un término real del rubro | Media — significado alternativo fuerte (música, piedra) resta distintividad |
 | Bow | Recliner | Media — evoca el movimiento con elegancia, pero de forma menos directa | Media-alta |
 | Yield | Recliner | Baja-media — pide más contexto para entenderse | Alta — el más sofisticado y menos genérico de la tanda |
 
@@ -178,7 +176,7 @@ Ver desarrollo completo en el entregable ya enviado. Resumen: DOOH recomendó el
 
 ## Pendiente
 
-1. **Curar la ronda 3** (Luxury: Deep, Den, Snug, Nest, Hush, Cove, Ease, Drape · Recliner: Lean, Shift, Arc, Angle, Bow, Rock, Yield, Curve, Poise, Sway, Pitch) a una lista corta antes de armar el próximo material para Lumma — hoy son candidatos internos de DOOH, sin curar ni compartir todavía.
+1. **Curar la ronda 3** (Luxury: Deep, Den, Snug, Nest, Hush, Cove, Ease, Drape · Recliner: Lean, Shift, Arc, Angle, Bow, Yield, Curve, Poise, Sway, Pitch) a una lista corta antes de armar el próximo material para Lumma — hoy son candidatos internos de DOOH, sin curar ni compartir todavía.
 2. Completar la tabla de criterios con los candidatos nuevos que falten, y con lo que aporten Antonela y Florencia Yacante, consolidando en una sola tabla.
 3. Evaluar formalmente las combinaciones comerciales/de catálogo ya confirmadas por mail (Recliner: 4D E-Motion R-Series, Recline Pro, 4D E-Motion Recline-Series, 4D E-Motion Recliner-Series · Luxury: Soft Seat Series, Prime-Soft, SoftLuxe) junto con el resto de las opciones.
 4. Confirmar nueva fecha y horario de reunión (el viernes 25/9 quedó atrás sin confirmarse).
