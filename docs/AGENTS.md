@@ -26,6 +26,7 @@ Toda la documentación del proyecto Lumma / 4D E-Motion. Tres subcarpetas con re
 | `Ronda_Nombres_Luxury_Recliner.md` | Ronda de generación de nombres. Ronda 3 (22/sept): generación interna DOOH en paralelo para Luxury y Recliner (aún no compartida con Lumma), con parejas sugeridas para que ambas líneas convivan en registro. Ronda 2 (20/sept) incorporó los descartes de la devolución del 18/9, la tabla de criterios Originalidad×Asociación, y la arquitectura de tres capas. |
 | `Avance_Naming_Consolidado.html` | Documento interno consolidado (post reunión 2/sept) para compartir con el equipo por WhatsApp/mobile. No es entregable de cliente. Resume territorio v2 + ronda de nombres. |
 | `entregables/Lumma_Ajustes_y_Tanda_de_Nombres.html` | **Segundo entregable de cliente** — ajustes incorporados de la reunión del 2/sept + primera tanda de nombres curada + análisis "recliner en el nombre sí/no". Mismo estilo visual que el primer entregable. |
+| `entregables/Lumma_Disponibilidad_y_Registro_Lux_Recline.html` | **Entregable de cliente (borrador, 24/nov/2026, aún no enviado)** — chequeo de disponibilidad preliminar de Lux y Recline, por qué no se registran solos, cómo protegerlos (combinación con 4D E-Motion + marca mixta) y variantes registrables por sí solas. Base interna: sección 12 de `Lumma_4D_EMotion_Base_Proyecto.md`. |
 
 **Históricos (no editar, solo consultar si hace falta ver el razonamiento previo):**
 

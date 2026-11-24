@@ -1,5 +1,5 @@
 # Lumma / 4D E-Motion — Documento Base del Proyecto
-## Carpeta de proyecto DOOH · Knowledge Box · Última actualización: 20/nov/2026
+## Carpeta de proyecto DOOH · Knowledge Box · Última actualización: 24/nov/2026
 
 *Documento base inicial del proyecto. Reúne el contexto completo, el alcance propuesto, la comunicación con el cliente y las definiciones vigentes hasta la fecha. Sirve como fuente única de referencia — se actualiza a medida que avanza el proyecto.*
 
@@ -350,9 +350,60 @@ Devolución de Lumma sobre el segundo entregable ("Ajustes y Primera Tanda de No
 
 Ambos nombres estaban en la lista original de Antonela del 22/jul ([`fuentes/Mail_Antonela_22jul2026.md`](fuentes/Mail_Antonela_22jul2026.md)), no en las rondas de DOOH. Cumplen la regla de que las dos líneas no compartan raíz. ⚠️ Supuesto a confirmar: "Soft" se lee como la línea Luxury; el mensaje original decía "Lux para sof".
 
+*Verificación contra fuentes (24/nov/2026):* en el mail del 22/jul Antonela escribe literalmente **"Recline."** (no "Recliner") como opción para la línea Recliner individual; "Recliner" aparece en todas las fuentes solo como nombre genérico de la línea. La elección del 20/nov no tiene todavía fuente escrita de Lumma, así que la grafía final ("Recline" vs. "Recliner") queda ⚠️ a confirmar con Antonela por escrito. Antecedente a tener en cuenta: en la reunión del 18/9 Florencia Yacante había puesto **Lux** entre los descartes ([`fuentes/Reunion_18sept2026_transcripcion.md`](fuentes/Reunion_18sept2026_transcripcion.md)), y Antonela mencionó "Lux Recline" entre las combinaciones posibles — la elección actual revierte ese descarte.
+
 **Pedido de Antonela para cerrar el proceso:** además del cierre de la etapa, quiere **un documento con dos propuestas para cada caso** (Lux y Recline), partiendo de que esos son los nombres seleccionados. ⚠️ Pendiente de precisar qué tipo de "propuesta" espera (ej. dos alternativas de arquitectura/nomenclatura por línea, dos formas de construir el nombre completo con 4D E-Motion y el "+", o dos opciones de nombre comercial/de catálogo).
 
 **Implicancias:**
 - Las rondas de generación de nombres quedan cerradas; los candidatos de DOOH (Deep, Den, Snug, Axis, Lean, Angle, etc.) quedan como reserva si "por ahora" se reabre más adelante.
 - "Prime", que estaba asignado a Recliner, deja de estar en juego para esa línea.
 - El chequeo de disponibilidad cambia de foco: Lux y Recline son genéricos y difíciles de registrar solos — hay que evaluar la protección de la combinación con 4D E-Motion.
+
+---
+
+## 12. Chequeo de disponibilidad preliminar — Lux y Recline (24/nov/2026)
+
+*Trabajo interno DOOH, todavía no compartido con Lumma. Es un chequeo preliminar (búsqueda web, mirrors públicos de USPTO y WHOIS de dominios .com): **no reemplaza un estudio marcario formal**, que sigue fuera del alcance contratado. Los registros de marca se leyeron en Justia/Markinton (espejos de USPTO), no en TSDR directamente — verificar estado vigente antes de citarlos al cliente.*
+
+### 12.1 Uso en el rubro (cine / butacas / 4D)
+
+| Término | Hallazgo | Riesgo |
+|---|---|---|
+| **Lux** | No apareció ninguna marca ni sistema de butaca 4D/motion llamado "Lux", "4D Lux" o "Lux 4D". Competidores reales (4DX, D-BOX, MX4D, Simuline) no lo usan como nombre de producto. El término aparece mucho como **nombre de sala/cadena** (Showcase "Cinema de Lux", sala "Lux" de CineSion en Suiza, Lux Cinemas en España) y como **calificador de modelo** en proveedores de butacas: Kinoexport "LUX COMFORT", Skeie "Sonate Lux" (y "Solist Lux", ya listado en `Research_Competidores_Naming_v2.md`). | **Medio.** Ningún competidor directo lo tiene, pero es un término muy saturado en el sector: distingue poco solo y la diferenciación tiene que venir de "4D E-Motion Lux" + lockup. |
+| **Recline** | No apareció ninguna marca de butaca de cine llamada "Recline". Es la palabra descriptiva del rubro: "recliner", "recliners on risers" la usan todos los proveedores (Inorca, Irwin, Atom, Leadcom) y exhibidores (AMC, Cinemark). Única marca hallada con la palabra en cine: un slogan de servicios de exhibición, "KICK BACK... RELAX... RECLINE!!!" (Insight Management Consulting). | **Medio-alto por genericidad**, bajo por colisión: nadie lo tiene como marca, justamente porque describe la función. |
+
+Lumma hoy no usa ninguno de los dos en su comunicación pública: el spotlight de CinemaCon (marzo 2026) solo nombra "4D E-Motion" y "Magnify 8".
+
+### 12.2 Registros de marca (EE.UU., Clase 20 — muebles/butacas)
+
+- **LUX:** hay registros de "LUX" en Clase 20 de terceros — Reg. 6179343 (Mattress Today USA, aparentemente colchones) y Serial 88589087 (activo, sin detalle de productos en lo consultado). También "LUXE" para asientos residenciales/comerciales y "LUXURY CLOUD SEATING". ⚠️ Riesgo de oposición alto si se intenta registrar **"LUX" solo** en Clase 20.
+- **RECLINE:** no apareció ningún registro activo de "RECLINE" solo en Clase 20. Los hallados están abandonados o cancelados (RECLINE SELECTOR, RECLINE RELAX; RECLINE en Clase 9, cancelado 2021). Siguen vigentes marcas derivadas como RECLINA-WAY y RECLINA-ROCKER (sillas reclinables). Aun sin colisión, una oficina de marcas probablemente lo rechace por **descriptivo** para butacas reclinables.
+- No se revisó: Sistema de Madrid/WIPO, INPI Argentina, EUIPO ni Clases 9/41 (tecnología y servicios de entretenimiento, relevantes para un sistema 4D). Quedan para el estudio formal.
+
+### 12.3 Dominios (.com, WHOIS 24/nov/2026)
+
+| Dominio | Estado |
+|---|---|
+| 4demotionlux.com | Libre |
+| 4demotionrecline.com | Libre |
+| recline4d.com | Libre |
+| 4drecline.com | Libre |
+| reclineseat.com | Libre |
+| lux4d.com | Registrado (2005) — sin uso visible en el rubro cine |
+| 4dlux.com | Registrado (2015) — sin uso visible en el rubro cine |
+| luxseat.com | Registrado (2012) |
+
+Lumma ya tiene 4demotion.com: lo más simple es usar páginas dentro de ese dominio (ej. 4demotion.com/lux, 4demotion.com/recline) y, si quieren protegerse, registrar 4demotionlux.com y 4demotionrecline.com.
+
+### 12.4 Conclusión y recomendación
+
+1. **Ninguno de los dos nombres choca con un competidor directo de Lumma.** Se pueden usar.
+2. **Ninguno es registrable con seguridad solo.** Lux por estar ocupado en Clase 20 por terceros; Recline por descriptivo. Esto entra en tensión con el criterio de "registro internacional" definido en la sección 6 — hay que decírselo a Antonela de forma explícita.
+3. **La protección tiene que apoyarse en la combinación con la marca madre:** registrar (o al menos usar siempre) "4D E-Motion Lux" y "4D E-Motion Recline", con lockup propio. Esto refuerza la arquitectura donde el paraguas 4D E-Motion siempre acompaña.
+4. **Recomendación para el entregable:** sugerir a Lumma una consulta con un agente de marcas antes del lanzamiento comercial, sobre las combinaciones y no sobre las palabras sueltas.
+
+**Entregable armado (24/nov, borrador sin enviar):** [`entregables/Lumma_Disponibilidad_y_Registro_Lux_Recline.html`](entregables/Lumma_Disponibilidad_y_Registro_Lux_Recline.html). Incluye variantes registrables por sí solas en cuatro caminos (A: elemento compartido — Aurelux/Aurecline, Halolux/Halocline, Lummalux/Lummacline, Lux Noble/Recline Noble, Lux Sense/Recline Sense · B: misma terminación — Luxora/Reclinora, Luxia/Reclia, Luxen/Reclen, Luxeo/Recleo, Luxis/Reclis · C: 4 butacas vs. 1 — Lux 4/Recline 1, Lux Four/Recline One, Lux Quad/Recline Solo, Lux Row/Recline Seat · D: fusión con E-Motion — Emolux/Emocline, E-Lux/E-Cline, 4D Lux/4D Recline, Motionlux/Motioncline) — ⚠️ ninguna chequeada todavía; el documento lo aclara. Revisado el 24/nov tras comentarios de Fernanda (reestructura de secciones, variantes A con elemento común y B con terminación común).
+
+*Nota sobre sensores (24/nov):* ninguna fuente dice que Luxury tenga 8 puntos y Recline no. Los "8 puntos" son de Magnify 8/M8, producto separado; 4D E-Motion trabaja en 4 puntos en todos los modelos, y el "+" suma M8 a cualquier modelo (Luxury + y Recliner + siguen sin confirmar, sección 2.1). Recline sí lleva la marca 4D E-Motion: Antonela lo dijo en la reunión del 2/sept ("le vamos a decir 4D E-Motion") y lo listó como opción para el exhibidor en el mail del 22/jul. Plantea dos caminos (mantener Lux/Recline protegiendo la combinación, o variante propia), que podrían responder al pedido de Antonela de "dos propuestas para cada caso" — a confirmar con ella.
+
+**Fuentes consultadas:** [CinemaCon Vendor Spotlight — Lumma (Cinema United)](https://cinemaunited.org/?p=16593) · [Showcase MX4D / Cinema de Lux](https://popcornclub.showcasecinemas.com/theatres/theatre-technology/MX4D) · [Kinoexport LUX COMFORT](https://www.archiexpo.com/prod/kinoexport-sro/product-143609-2154867.html) · [Skeie Sonate Lux](https://www.finn.no/recommerce/forsale/item/438574448) · [Figueras — CineSion Lux](https://figueras.com/project/cinesion-lux-sion-switzerland/) · [LUX Serial 88864513 / Reg. 6179343 (Markinton)](https://markinton.com/trademark/lux-88864513) · [LUX Serial 88589087 (Justia)](https://trademark.justia.com/885/89/lux-88589087.html) · [LUXE (Justia)](https://trademark.justia.com/862/66/luxe-86266371.html) · [RECLINE (Justia)](https://trademarks.justia.com/859/31/recline-85931388.html) · [RECLINE RELAX (Justia)](https://trademarks.justia.com/880/92/recline-88092462.html) · [RECLINE SELECTOR (Justia)](https://trademarks.justia.com/754/80/recline-selector-75480024.html) · [RECLINA-WAY (Justia)](https://trademarks.justia.com/732/38/reclina-way-73238639.html) · [Insight Management Consulting (Justia)](https://trademarks.justia.com/owners/insight-management-consulting-l-l-c-2856284)
