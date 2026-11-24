@@ -1,5 +1,5 @@
 # Lumma / 4D E-Motion — Documento Base del Proyecto
-## Carpeta de proyecto DOOH · Knowledge Box · Última actualización: 12/ago/2026
+## Carpeta de proyecto DOOH · Knowledge Box · Última actualización: 20/nov/2026
 
 *Documento base inicial del proyecto. Reúne el contexto completo, el alcance propuesto, la comunicación con el cliente y las definiciones vigentes hasta la fecha. Sirve como fuente única de referencia — se actualiza a medida que avanza el proyecto.*
 
@@ -337,3 +337,22 @@ Devolución de Lumma sobre el segundo entregable ("Ajustes y Primera Tanda de No
 - **Riesgo de jerarquía semántica:** usar la raíz "Lux"/"Luxury" en algo de Recliner puede pisar la línea Luxury — refuerza que los nombres de los dos modelos no compartan campo semántico, y que "convivan" bien como pareja (si uno es muy literal, el otro no puede ser demasiado abstracto).
 - **"Soft" combinado, matiz nuevo:** "Prime Soft" o "Soft X" podrían funcionar como descriptor comercial, aunque "Soft" solo sigue vetado como nombre de marca al consumidor.
 - **Próximo paso acordado:** Antonela y Florencia Yacante arman su propia tabla de criterios; Antonela manda por mail los nombres de combinación comercial; se agenda reunión para el viernes siguiente (25/9, a confirmar). DOOH necesita generar candidatos nuevos para Luxury antes de esa reunión, dado que la lista quedó muy corta (detalle completo en [Ronda_Nombres_Luxury_Recliner.md](Ronda_Nombres_Luxury_Recliner.md)).
+
+---
+
+## 11. Decisión de naming de Lumma (informada el 20/nov/2026)
+
+**Fuente:** informado por el equipo DOOH (Fernanda Barreiro) el 20/nov/2026. Todavía no hay mail ni transcripción de Lumma registrados en `fuentes/` — cuando llegue la fuente primaria, guardarla ahí y corregir esta sección si difiere.
+
+**Decisión "por ahora" de Lumma:**
+- **Línea Luxury (módulo 4 seats, la que internamente se viene llamando "Soft"):** se elige **Lux**.
+- **Línea Recliner (individual, on riser, S1/ONE):** se elige **Recline**.
+
+Ambos nombres estaban en la lista original de Antonela del 22/jul ([`fuentes/Mail_Antonela_22jul2026.md`](fuentes/Mail_Antonela_22jul2026.md)), no en las rondas de DOOH. Cumplen la regla de que las dos líneas no compartan raíz. ⚠️ Supuesto a confirmar: "Soft" se lee como la línea Luxury; el mensaje original decía "Lux para sof".
+
+**Pedido de Antonela para cerrar el proceso:** además del cierre de la etapa, quiere **un documento con dos propuestas para cada caso** (Lux y Recline), partiendo de que esos son los nombres seleccionados. ⚠️ Pendiente de precisar qué tipo de "propuesta" espera (ej. dos alternativas de arquitectura/nomenclatura por línea, dos formas de construir el nombre completo con 4D E-Motion y el "+", o dos opciones de nombre comercial/de catálogo).
+
+**Implicancias:**
+- Las rondas de generación de nombres quedan cerradas; los candidatos de DOOH (Deep, Den, Snug, Axis, Lean, Angle, etc.) quedan como reserva si "por ahora" se reabre más adelante.
+- "Prime", que estaba asignado a Recliner, deja de estar en juego para esa línea.
+- El chequeo de disponibilidad cambia de foco: Lux y Recline son genéricos y difíciles de registrar solos — hay que evaluar la protección de la combinación con 4D E-Motion.

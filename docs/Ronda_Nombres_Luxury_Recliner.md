@@ -1,6 +1,8 @@
 # Lumma / 4D E-Motion — Ronda de generación de nombres (Luxury + Recliner)
 ## Fecha: 10/sept/2026 · Curada 11/sept · Actualizada 20/sept tras devolución de Lumma (reunión 18/9) · Ronda 3: 22/sept (generación interna DOOH, aún no compartida con Lumma)
 
+🔒 **Actualización 20/nov/2026 — rondas cerradas:** Lumma eligió "por ahora" **Lux** (línea Luxury) y **Recline** (línea Recliner), ambos de su propia lista original del 22/jul. Los candidatos de este documento quedan como reserva. Detalle y pedido de cierre en la sección 11 de [`Lumma_4D_EMotion_Base_Proyecto.md`](Lumma_4D_EMotion_Base_Proyecto.md). El estado que sigue es el histórico de la ronda 3.
+
 ✅ **Estado: ronda 3, generación interna.** Se incorporan los descartes y observaciones de la reunión del 18/9 ([`fuentes/Reunion_18sept2026_transcripcion.md`](fuentes/Reunion_18sept2026_transcripcion.md)) y una tanda nueva de candidatos para ambas líneas (Luxury y Recliner), trabajada en paralelo para que las dos convivan con el mismo registro. **Todavía no se compartió con Lumma — falta curar antes de la próxima reunión (el viernes 25/9 quedó atrás sin confirmarse, hay que acordar fecha nueva).**
 
 Trabajo sobre la base ya corregida: [`Territorio_Naming_Punto1_v2.md`](Territorio_Naming_Punto1_v2.md), [`Research_Competidores_Naming_v2.md`](Research_Competidores_Naming_v2.md), [`Mapa_Estructura_Productos_Lumma_v2.md`](Mapa_Estructura_Productos_Lumma_v2.md).
@@ -175,6 +177,8 @@ Ver desarrollo completo en el entregable ya enviado. Resumen: DOOH recomendó el
 ---
 
 ## Pendiente
+
+> Actualización 20/nov/2026: los puntos 1 y 2 quedan sin efecto por la elección de Lux y Recline. Lo que sigue vigente (combinaciones comerciales, chequeo de disponibilidad) se reorienta a los nombres elegidos — ver sección 11 del documento base.
 
 1. **Curar la ronda 3** (Luxury: Deep, Den, Snug, Nest, Hush, Cove, Ease, Drape · Recliner: Lean, Shift, Arc, Angle, Bow, Yield, Curve, Poise, Sway, Pitch) a una lista corta antes de armar el próximo material para Lumma — hoy son candidatos internos de DOOH, sin curar ni compartir todavía.
 2. Completar la tabla de criterios con los candidatos nuevos que falten, y con lo que aporten Antonela y Florencia Yacante, consolidando en una sola tabla.
